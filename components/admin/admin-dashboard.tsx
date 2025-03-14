@@ -5,8 +5,17 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 import { AdminOverview } from "@/components/admin/admin-overview"
 import { AdminRecentActivity } from "@/components/admin/admin-recent-activity"
 import { AdminSystemStatus } from "@/components/admin/admin-system-status"
-import { ref, get } from "firebase/database"
-import { db } from "@/lib/firebase"
+import { ref, get, Database } from "firebase/database";
+import { db }: { db: Database } from "@/lib/firebase";
+"use client"
+
+import { useState, useEffect } from "react"
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
+import { AdminOverview } from "@/components/admin/admin-overview"
+import { AdminRecentActivity } from "@/components/admin/admin-recent-activity"
+import { AdminSystemStatus } from "@/components/admin/admin-system-status"
+import { ref, get, Database } from "firebase/database";
+import { db }: { db: Database } from "@/lib/firebase";
 import { useToast } from "@/hooks/use-toast"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { Button } from "@/components/ui/button"
@@ -156,25 +165,15 @@ export function AdminDashboard() {
               )}
             </div>
             <p className="text-xs text-muted-foreground">
-              {dashboardData.isLoading ? (
-                <div className="h-4 w-32 animate-pulse rounded bg-muted"></div>
-              ) : (
-                `+20.1% from last month`
-              )}
+              {`+20.1% from last month`}
             </p>
           </CardContent>
         </Card>
+        {dashboardData.isLoading && (
+          <div className="h-4 w-32 animate-pulse rounded bg-muted"></div>
+        )}
 
         <Card onClick={() => navigateTo("/admin/agents")} className="cursor-pointer hover:shadow-md transition-shadow">
-          <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
-            <CardTitle className="text-sm font-medium">Agents</CardTitle>
-            <UserCog className="h-4 w-4 text-muted-foreground" />
-          </CardHeader>
-          <CardContent>
-            <div className="text-2xl font-bold">
-              {dashboardData.isLoading ? (
-                <div className="h-7 w-16 animate-pulse rounded bg-muted"></div>
-              ) : (
                 dashboardData.totalAgents
               )}
             </div>
@@ -362,4 +361,3 @@ export function AdminDashboard() {
     </div>
   )
 }
-

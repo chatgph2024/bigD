@@ -24,30 +24,33 @@ export class ErrorBoundary extends React.Component<ErrorBoundaryProps, ErrorBoun
   }
 
   componentDidCatch(error: Error, errorInfo: React.ErrorInfo): void {
-    console.error("Error caught by ErrorBoundary:", error, errorInfo)
+    console.error("Error caught by ErrorBoundary:", error, errorInfo);
+    // You can also log the error to a service like Sentry or Rollbar here
   }
 
   render() {
     if (this.state.hasError) {
+      console.error("Rendering error fallback:", this.state.error); // Log the error before rendering fallback
       return (
         <div className="flex h-full w-full flex-col items-center justify-center gap-4 p-4">
           <div className="text-center">
             <h2 className="text-2xl font-bold">Something went wrong</h2>
-            <p className="text-muted-foreground">{this.state.error?.message || "An unexpected error occurred"}</p>
+            <p className="text-muted-foreground">
+              {this.state.error?.message || "An unexpected error occurred. Please try again later."}
+            </p>
           </div>
           <Button
             onClick={() => {
-              this.setState({ hasError: false })
-              window.location.reload()
+              this.setState({ hasError: false });
+              window.location.reload();
             }}
           >
             Try again
           </Button>
         </div>
-      )
+      );
     }
 
     return this.props.children
   }
 }
-
