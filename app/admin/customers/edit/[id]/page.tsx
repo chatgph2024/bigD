@@ -1,17 +1,18 @@
-import { Suspense } from "react"
-import { EditCustomerForm } from "@/components/admin/customers/edit-customer-form"
-import { DashboardSkeleton } from "@/components/skeletons"
-import { ErrorBoundary } from "@/components/error-boundary"
+import React from 'react';
+import { EditCustomerForm } from '@/components/admin/customers/edit-customer-form';
 
-export default function EditCustomerPage({ params }: { params: { id: string } }) {
-  return (
-    <main className="flex-1 p-8 pt-6">
-      <ErrorBoundary fallback={<div className="p-4">Something went wrong loading the form</div>}>
-        <Suspense fallback={<DashboardSkeleton />}>
-          <EditCustomerForm id={params.id} />
-        </Suspense>
-      </ErrorBoundary>
-    </main>
-  )
+interface Props {
+  params: { id: string }
 }
 
+const AdminEditCustomerPage = ({ params }: Props) => {
+  const { id } = params;
+
+  return (
+    <div>
+      <EditCustomerForm id={id} />
+    </div>
+  );
+};
+
+export default AdminEditCustomerPage;
