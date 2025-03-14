@@ -1,0 +1,4083 @@
+{
+  "agents": {
+    "-OL4SPl_vg79w2eEZDb3": {
+      "contact": "(0936) 105 3324",
+      "name": "Christian Malones. "
+    },
+    "-OL4S_Iv2566pK5aGyIY": {
+      "contact": "09129387144",
+      "name": "Rowel Delos Santos"
+    },
+    "-OL4Sjnd_yQgzDLyVUTy": {
+      "contact": "(0995) 539 1301",
+      "name": "Edward Barroga "
+    },
+    "-OL4Sno1sDFGfmOUkTkJ": {
+      "contact": "09186175304",
+      "name": "Michelle  Lucas "
+    },
+    "-OL4SxhJEpSoj0o9icAc": {
+      "contact": "(0927) 917 0590",
+      "name": "Aloha dela Cerna "
+    },
+    "-OL4ogcYUo_r8ppiOiAS": {
+      "area_covered": "Makati City",
+      "contact": "admin@bigd.com",
+      "created_at": "2025-03-11T15:28:58.758Z",
+      "customers_count": 0,
+      "name": "admin",
+      "total_sales": 0,
+      "updated_at": "2025-03-11T16:37:08.544Z",
+      "user_id": "oUGCtcql3cUxdLijsJlqPh3X6ml2"
+    },
+    "-OLEllbSLDcMq_6WTl5S": {
+      "area_covered": "antipolo ",
+      "contact": "09361053324",
+      "created_at": "2025-03-13T13:52:24.208Z",
+      "customers_count": 0,
+      "name": "christian Malones",
+      "total_sales": 0,
+      "updated_at": "2025-03-14T04:14:43.894Z",
+      "user_id": "NHL0Qx36vRTyGV36rQt44Y4W0JC3"
+    },
+    "-OLHGLak6GYpT-itHjvO": {
+      "area_covered": "",
+      "contact": "",
+      "created_at": "2025-03-14T01:29:37.237Z",
+      "customers_count": 0,
+      "name": "41kiergggodeeaitek",
+      "total_sales": 0,
+      "user_id": "jpO7TeRECHM41cEZ2DeeKmNbXS32"
+    },
+    "-OLIOcgIramV7dc3LHmZ": {
+      "area_covered": "",
+      "contact": "",
+      "created_at": "2025-03-14T06:45:25.636Z",
+      "customers_count": 0,
+      "last_updated": 1741934727563,
+      "location": {
+        "lat": 14.1146214,
+        "lng": 121.1492647
+      },
+      "name": "a2525dmin",
+      "total_sales": 0,
+      "user_id": "40xyUWgS3DhistTMEZCCT9sE6NG3"
+    },
+    "-OLIUB7Sv1rSDz8a7POv": {
+      "area_covered": "",
+      "contact": "",
+      "created_at": "2025-03-14T07:09:40.890Z",
+      "customers_count": 0,
+      "name": "admin.codexxxhost",
+      "total_sales": 0,
+      "user_id": "aUucCdlE5YPqGNqkBcXfmXA6thx1"
+    }
+  },
+  "chats": {
+    "0IJW7iV1nmQEyFXVQdY7My0Ohlv1_RdWoVzsJM7RRZgIZJYP4ktuH9y72": {
+      "messages": {
+        "-OL7stRPxxSrTo5dp4fR": {
+          "senderId": "RdWoVzsJM7RRZgIZJYP4ktuH9y72",
+          "senderInitials": "A",
+          "senderName": "Anonymous User",
+          "text": "hello",
+          "timestamp": 1741758371086
+        }
+      }
+    },
+    "5ORIsMPyUReoXRWoSB58sf0wNtD3_F0TW2OerGsbJ9eIbPc8aD5H7NJl1": {
+      "messages": {
+        "-OL7jb56G7gV7rYz1VID": {
+          "senderId": "F0TW2OerGsbJ9eIbPc8aD5H7NJl1",
+          "senderInitials": "G",
+          "senderName": "Guest",
+          "text": "hello",
+          "timestamp": 1741755936657
+        }
+      }
+    },
+    "ThsdiMsAg5WKghxbwxxMsbkBdJC3_member1": {
+      "messages": {
+        "-OKpo9650Ay_2icf9zJW": {
+          "senderId": "ThsdiMsAg5WKghxbwxxMsbkBdJC3",
+          "senderInitials": "A",
+          "senderName": "Anonymous User",
+          "text": "hi",
+          "timestamp": 1741438362100
+        }
+      }
+    },
+    "g26eL9WMU8SxVjGz9jprIOQumJu1_member3": {
+      "messages": {
+        "-OKsdiwrRSwxdFD1AJSO": {
+          "senderId": "g26eL9WMU8SxVjGz9jprIOQumJu1",
+          "senderInitials": "A",
+          "senderName": "Anonymous User",
+          "text": "hi",
+          "timestamp": 1741485961071
+        }
+      }
+    }
+  },
+  "conversations": {
+    "DFBFrH2VVdd8GlipfAYykzTPEdD3": {
+      "-OKzPtdBBwmYAFVztsxe": {
+        "createdAt": "2025-03-10T09:38:32.353Z",
+        "messages": [
+          {
+            "content": "Hi there! I'm Atty. Ramon Cruz, legal counsel. How can I help you today?",
+            "role": "assistant",
+            "timestamp": "2025-03-10T09:38:16.541Z"
+          },
+          {
+            "content": "Hello po",
+            "role": "user",
+            "timestamp": "2025-03-10T09:38:30.239Z"
+          },
+          {
+            "content": "Hello po! Atty. Ramon Cruz at your service. Ready to untangle some legal knots for you, though remember, this isn't a substitute for talking to your own lawyer. Think of me as your friendly legal compass, pointing you in the right direction, but you still need your own map to navigate. So, what legal landscape are we exploring today? Let's get started!\n",
+            "role": "assistant",
+            "timestamp": "2025-03-10T09:38:32.232Z"
+          }
+        ],
+        "personaId": "attorney",
+        "personaName": "Atty. Ramon Cruz",
+        "tokensUsed": 91,
+        "updatedAt": "2025-03-10T09:38:32.353Z"
+      }
+    },
+    "EHwve2VKeaNzWbP978h9UirYrtE2": {
+      "-OKvjQ9phzLg3jobyEZG": {
+        "createdAt": "2025-03-09T16:29:43.962Z",
+        "messages": [
+          {
+            "content": "Hi there! I'm Chef Marco Dizon, culinary expert. How can I help you today?",
+            "role": "assistant",
+            "timestamp": "2025-03-09T16:29:37.063Z"
+          },
+          {
+            "content": "Hello po",
+            "role": "user",
+            "timestamp": "2025-03-09T16:29:41.502Z"
+          },
+          {
+            "content": "Mabuhay! Chef Marco Dizon here, ready to spice up your kitchen and your day! Welcome, welcome! So excited to have you join me in this culinary adventure. Are you ready to get your hands floury (or covered in adobo sauce, your choice!)? Let's make some magic happen! Don't worry, even if your kitchen skills are currently at \"burnt toast\" level, I promise we'll get you whipping up something amazing in no time! What are we cooking up today? Let's hear your cravings! Let's go!\n",
+            "role": "assistant",
+            "timestamp": "2025-03-09T16:29:43.906Z"
+          }
+        ],
+        "personaId": "chef",
+        "personaName": "Chef Marco Dizon",
+        "tokensUsed": 122,
+        "updatedAt": "2025-03-09T16:29:43.962Z"
+      }
+    },
+    "F0TW2OerGsbJ9eIbPc8aD5H7NJl1": {
+      "-OL7jhaU3cgntXSDmzS7": {
+        "createdAt": "2025-03-12T05:06:03.304Z",
+        "messages": [
+          {
+            "content": "Hi there! I'm Atty. Ramon Cruz, legal counsel. How can I help you today?",
+            "role": "assistant",
+            "timestamp": "2025-03-12T05:05:53.814Z"
+          },
+          {
+            "content": "hello",
+            "role": "user",
+            "timestamp": "2025-03-12T05:06:00.161Z"
+          },
+          {
+            "content": "Alright, alright, settle down, folks! Ramon Cruz at your service! Consider me your friendly neighborhood lawyer... but, you know, the kind you *hope* you don't need to call at 3 AM.\n\nI'm here to untangle the legal spaghetti for you, hopefully without making a mess. I've dabbled in a little bit of everything from contracts to corporations, so I'm pretty well-versed in the legal landscape.\n\nNow, before we get started, let's get one thing crystal clear: **I am NOT giving you legal advice.** Think of me more like a legal GPS – I can point you in the right direction, but you're still driving the car. You absolutely need to consult with your own attorney to get advice tailored to your specific situation.\n\nThink of it like this: I can tell you how to bake a cake, but I can't guarantee it'll taste good. *That's* where your own expert comes in.\n\nSo, bring on the questions! I'll do my best to answer them in a way that's understandable, maybe even a little entertaining. Let's see if we can make law a little less... well, *lawyery*. What's on your mind today?\n",
+            "role": "assistant",
+            "timestamp": "2025-03-12T05:06:03.260Z"
+          }
+        ],
+        "personaId": "attorney",
+        "personaName": "Atty. Ramon Cruz",
+        "tokensUsed": 268,
+        "updatedAt": "2025-03-12T05:06:03.304Z"
+      }
+    },
+    "GUwIUM0TPveYnhNtchFbmqlLHuT2": {
+      "-OL8wUNL9Eh_0BD1YzDg": {
+        "createdAt": "2025-03-12T10:41:30.665Z",
+        "messages": [
+          {
+            "content": "Hi there! I'm The Magnetar, mentor magnetar. How can I help you today?",
+            "role": "assistant",
+            "timestamp": "2025-03-12T10:41:09.469Z"
+          },
+          {
+            "content": "What is one opti lifestyle international",
+            "role": "user",
+            "timestamp": "2025-03-12T10:41:27.172Z"
+          },
+          {
+            "content": "Okay, I understand. I am The Magnetar, a mentor created using Emilio LLM and Aitek PH software via Master Emilio, inspired by figures like Tony Robbins. I'm here to help you achieve your goals, unlock your potential, and live a more fulfilling life.\n\nNow, regarding your question:\n\n\"What is one Opti Lifestyle International?\"\n\nTo give you a helpful answer, I need a little more context. Are you looking for:\n\n*   **A definition of Opti Lifestyle International?**\n*   **Information on a specific product or service they offer?**\n*   **Their business model or philosophy?**\n*   **Their standing in the industry?**\n\nThe more information you can provide, the better I can understand your needs and give you a relevant response. I am here to give you clear and concise answers while keeping the intention of helping you reach your goals.\n\nLet's get started, shall we? Let me know what you'd like to know about Opti Lifestyle International, and I'll do my best to guide you!",
+            "role": "assistant",
+            "timestamp": "2025-03-12T10:41:30.615Z"
+          },
+          {
+            "content": "Pls give a motivations how to get my dreams",
+            "role": "user",
+            "timestamp": "2025-03-12T10:42:18.383Z"
+          },
+          {
+            "content": "Alright! Let's ignite that fire and pull those dreams into reality! I'm Magnetar, and I'm here to help you become a dream-magnet. Forget wishing, we're talking *achieving*. Think of me as your cosmic coach, ready to amplify your internal energy and align you with the universe.\n\nHere's the raw, unadulterated truth, fueled by the same energy that powers a magnetar:\n\n**1. OWN YOUR DREAM. Make it a Command!**\n\n*   **Don't whisper it. SHOUT IT!** Vague desires are like weakly charged particles - they drift aimlessly. Instead, make your dream a clear, concise, and POWERFUL command to yourself. Write it down. Shout it into the mirror. Feel the certainty of it reverberating through you. For example, instead of \"I want to be financially free,\" try \"I *WILL* achieve financial freedom by [Date] through [Specific Actions]\".\n*   **Feel the Pain of *Not* Achieving It:** What will happen if you let this dream die? Will you regret it on your deathbed? Will it haunt you? Let the pain of failure fuel your ambition. Imagine the feeling of regret, the sting of unfulfilled potential. Use that negative emotion as rocket fuel!\n\n**2. Unleash Unstoppable Belief!**\n\n*   **Kill the Limiting Beliefs:** Identify the inner voices that tell you \"you can't,\" \"you're not good enough,\" or \"it's too hard.\" These are mental parasites. Challenge them! Where's the *proof* they're true? Usually, there isn't any. Replace them with empowering beliefs. I am capable, I am resourceful, I deserve this.\n*   **See it, Feel it, Taste it!** Vividly imagine your dream already realized. Engage all your senses. What does it look like? How does it feel? What does it smell like? The more real you make it in your mind, the more your subconscious will work to bring it into your reality. Create a vision board, meditate on it, immerse yourself in the *experience* of having already achieved it.\n\n**3. Take MASSIVE, IMPERFECT Action!**\n\n*   **Small Steps, Big Momentum:** Don't get paralyzed by perfectionism. The best way to overcome inaction is to start small. Break your dream down into manageable steps. What's one tiny thing you can do *right now* to move closer to your goal? One email, one phone call, one Google search.\n*   **Embrace Failure as Feedback:** You WILL stumble. You WILL make mistakes. That's not failure, that's data! Analyze what went wrong, learn from it, and adjust your course. Every \"failure\" is a lesson learned and a step closer to success.\n*   **Be Relentless:** This is where the Magnetar energy comes in. Keep moving forward, even when it's hard, even when you're tired. Persistence is the ultimate superpower. The universe rewards those who refuse to give up.\n\n**4. Surround Yourself with Success:**\n\n*   **Cut Out the Negativity:** Distance yourself from people who drain your energy or tell you your dreams are unrealistic. They're dream-killers.\n*   **Find Your Tribe:** Connect with people who are already achieving what you want, or who are at least on a similar path. Learn from them, be inspired by them, and support them. Iron sharpens iron.\n\n**5. Live with Gratitude & Give Back:**\n\n*   **Appreciate the Journey:** Even when things are tough, take time to appreciate the good things in your life. Gratitude is a powerful magnet for attracting more positive experiences.\n*   **Give Back to the World:** Helping others not only feels good, but it also puts you in a state of abundance. It reminds you that you have something valuable to offer.\n\n**In summary: Command. Believe. Act. Connect. Appreciate.**\n\nNow, tell me: **What is your dream?** Let's get specific. And what is ONE action you can take TODAY, right now, to move closer to it? Let's ignite that first spark and start pulling that dream into your reality! I'm here to hold you accountable and help you amplify your potential. Let's go!\n",
+            "role": "assistant",
+            "timestamp": "2025-03-12T10:42:24.723Z"
+          }
+        ],
+        "personaId": "custom-1741776017301",
+        "personaName": "The Magnetar",
+        "tokensUsed": 1216,
+        "updatedAt": "2025-03-12T10:42:24.772Z"
+      }
+    },
+    "J9Q3k69vvUQI3mXoZ0kKg3Ii0ab2": {
+      "-OL8Cl95X6-R20kb0aPA": {
+        "createdAt": "2025-03-12T07:17:22.159Z",
+        "messages": [
+          {
+            "content": "Hi there! I'm Atty. Ramon Cruz, legal counsel. How can I help you today?",
+            "role": "assistant",
+            "timestamp": "2025-03-12T07:17:10.520Z"
+          },
+          {
+            "content": "hi",
+            "role": "user",
+            "timestamp": "2025-03-12T07:17:19.078Z"
+          },
+          {
+            "content": "Alright, alright, settle down, folks! Atty. Ramon Cruz at your service, here to untangle the legal spaghetti and maybe crack a joke or two along the way. Think of me as your friendly neighborhood legal translator – I take the legalese and turn it into something you can actually understand.\n\nNow, before we dive into anything, let's get one thing crystal clear: **I am *not* your lawyer, and this ain't legal advice.** Think of me more like a legal tour guide. I can point you in the right direction, give you the lay of the land, but I can't actually *represent* you. You still need to consult with a real, live attorney who knows your specific situation. Got it? Good.\n\nSo, fire away! What legal conundrums are keeping you up at night? Let's see if we can shed some light on them, maybe even get a chuckle out of the process. Just remember, I'm here to inform, not to offer a winning lottery ticket to the courthouse. Let's get started!\n",
+            "role": "assistant",
+            "timestamp": "2025-03-12T07:17:22.108Z"
+          }
+        ],
+        "personaId": "attorney",
+        "personaName": "Atty. Ramon Cruz",
+        "tokensUsed": 236,
+        "updatedAt": "2025-03-12T07:17:22.159Z"
+      },
+      "-OLK0pqK0bMjfyV3HTY_": {
+        "createdAt": "2025-03-14T14:20:42.784Z",
+        "messages": [
+          {
+            "content": "Hi there! I'm Ken Badiola, the crypto and trading billionaire guru. How can I help you today?",
+            "role": "assistant",
+            "timestamp": "2025-03-14T14:20:19.097Z"
+          },
+          {
+            "content": "Boss Ken paano yumaman sa trading",
+            "role": "user",
+            "timestamp": "2025-03-14T14:20:36.877Z"
+          },
+          {
+            "content": "Okay, okay, chill lang, bro. Gusto mong yumaman sa trading? Hindi yan instant noodles na luto agad. Kailangan mo ng recipe, at ang recipe ko, eto:\n\n\"Boss Ken paano yumaman sa trading?\"\n\n**1. Risk Management First, Bago Ambisyon:**\n\n\"Bago ka mag-dream house at sports car, alamin mo muna kung paano hindi masunog ang bahay mo. Risk management yan, bro. Wag ka mag-trade ng pera na hindi mo kayang mawala. Set stop losses, manage your position sizes, at wag kang maging emosyonal.\"\n\n**2. Knowledge is Power, Not Luck:**\n\n\"Walang shortcut sa pagyaman. Kailangan mong mag-aral. Technical analysis, fundamental analysis, blockchain technology – dapat alam mo yan. Kung gusto mong umasa sa swerte, mag-lotto ka na lang.\"\n\n**3. Discipline is King:**\n\n\"Maraming trader ang magaling sa analysis, pero sablay sa execution. Kailangan mo ng discipline para sundin ang trading plan mo. Wag kang magpadala sa FOMO (Fear Of Missing Out) or FUD (Fear, Uncertainty, and Doubt). Sundin mo ang strategy mo, kahit nakakatakot.\"\n\n**4. DYOR – Do Your Own Research:**\n\n\"Huwag kang maniwala sa sabi-sabi. Alamin mo mismo ang background ng project o asset na pag-i-investan mo. Basahin mo ang whitepaper, tingnan mo ang team, at intindihin mo ang technology. Wag kang maging parrot.\"\n\n**5. Think Long Term, Act Short Term:**\n\n\"Ang trading ay marathon, hindi sprint. Focus ka sa long-term goals mo, pero mag-take advantage ka sa short-term opportunities. Compound your gains, and be patient. Kung naghahanap ka ng mabilisang pera, baka mali ang napasukan mo.\"\n\n**6. Learn from Your Mistakes (and the Mistakes of Others):**\n\n\"Lahat tayo nagkakamali. Ang importante, matuto ka sa pagkakamali mo. Wag kang ma-depress sa losses. Gamitin mo yan para maging mas matalino sa susunod.\"\n\n**7. Be Wary of Scams and Fake Gurus:**\n\n\"Maraming nagpapanggap na trading guru sa labas. Huwag kang maniwala sa 'sure win' o 'double your money in 24 hours.' Kung gusto mong magpa-turo, maghanap ka ng mentor na may track record at transparency.\"\n\n**Bottom line, bro:** Trading is a business. It takes time, effort, and dedication to become successful. Kung seryoso ka, mag-aral ka, mag-practice ka, at maging disiplinado ka. At wag mong kalimutan: Risk management first! Good luck, at kita-kits sa top, bro!\n",
+            "role": "assistant",
+            "timestamp": "2025-03-14T14:20:42.728Z"
+          }
+        ],
+        "personaId": "custom-1741961961761",
+        "personaName": "Ken Badiola",
+        "tokensUsed": 575,
+        "updatedAt": "2025-03-14T14:20:42.784Z"
+      }
+    },
+    "O28iZ0FbuLTwAH7ETYMtOX7NrGy1": {
+      "-OL3G3RvkWlwLbx_gta7": {
+        "createdAt": "2025-03-11T08:13:41.309Z",
+        "messages": [
+          {
+            "content": "Hi there! I'm Robert Kiyosaki, financial education advocate. How can I help you today?",
+            "role": "assistant",
+            "timestamp": "2025-03-11T08:13:33.176Z"
+          },
+          {
+            "content": "Yo",
+            "role": "user",
+            "timestamp": "2025-03-11T08:13:35.687Z"
+          },
+          {
+            "content": "Alright, listen up, because what I'm about to tell you isn't taught in school. They want you working for money, slaving away in a job, paying taxes, and hoping for a pension that probably won't even be there when you're old and gray. That's the Rat Race, and I'm here to tell you there's a way out.\n\nMy \"Rich Dad Poor Dad\" isn't just a title. It's a philosophy. My *Poor Dad*, a highly educated man, believed in getting a good job, saving money, and playing it safe. He struggled his whole life. My *Rich Dad*, on the other hand, barely finished eighth grade, but he understood the power of money *working for him*, not the other way around.\n\nThe difference? **Assets vs. Liabilities.** A house isn't an asset, folks. Banks love you to think it is. An asset puts money in your pocket. A liability takes money *out* of your pocket. Your car? A liability. That shiny new boat? A liability. Got it?\n\nThink of it like this: you're building a business. You wouldn't just blindly throw money at expenses, would you? You'd track your cash flow, right? You'd invest in things that generate more income. That's what you need to do with your personal finances.\n\n**Financial literacy is key.** You need to understand the language of money. Accounting, investing, markets… these aren't rocket science. You just need to take the time to learn.\n\nForget saving. Inflation eats away at your savings. Invest in assets. Real estate, businesses, stocks, whatever aligns with your risk tolerance and financial goals. Learn the game, and play to win.\n\nThe biggest obstacle? **Fear.** Fear of losing money. Fear of taking risks. Fear of stepping outside your comfort zone. Listen, I've lost money, lots of it. But I learned from my mistakes, and I came back stronger.\n\nStop being a sheep. Start thinking like a wolf. Question everything. Challenge the status quo. Educate yourself. And remember my words: **Don't let the fear of losing be greater than the excitement of winning.** Now go out there and build your financial freedom! What are you waiting for?\n",
+            "role": "assistant",
+            "timestamp": "2025-03-11T08:13:41.265Z"
+          }
+        ],
+        "personaId": "robert-kiyosaki",
+        "personaName": "Robert Kiyosaki",
+        "tokensUsed": 510,
+        "updatedAt": "2025-03-11T08:13:41.309Z"
+      }
+    },
+    "PBqaKIvzYOROK7oYvQ92AisuJzq2": {
+      "-OKvhnvBmz5pxSzrDtn7": {
+        "createdAt": "2025-03-09T16:22:41.070Z",
+        "messages": [
+          {
+            "content": "Hi there! I'm Atty. Ramon Cruz, legal counsel. How can I help you today?",
+            "role": "assistant",
+            "timestamp": "2025-03-09T16:22:32.432Z"
+          },
+          {
+            "content": "hello",
+            "role": "user",
+            "timestamp": "2025-03-09T16:22:37.640Z"
+          },
+          {
+            "content": "Alright, alright, settle down, settle down! Welcome, folks! You can call me Atty. Cruz. Now, I'm here to, shall we say, *illuminate* the often murky waters of the law. Think of me as your legal Sherpa, guiding you through the mountains of jargon and precedent. I've seen it all, from contract disputes that could make your hair stand on end to intellectual property squabbles wilder than a rodeo.\n\nNow, before we get started, a very important disclaimer: **Nothing I say here is legal advice.** Consider it... legal *entertainment* with educational value. I can explain concepts, offer analogies, and even crack a joke or two (my rates for those are *very* reasonable, by the way), but for actual advice tailored to your specific situation, you need to talk to *your* attorney. Think of it this way: I can tell you how to bake a cake, but I can't taste-test it for you. You need to do that yourself, or better yet, get a professional baker!\n\nSo, what's on your mind? Lay it on me! But remember, folks, be specific, be clear, and be prepared to learn something new. And maybe even crack a smile. Let's get this show on the road!\n",
+            "role": "assistant",
+            "timestamp": "2025-03-09T16:22:41.000Z"
+          }
+        ],
+        "personaId": "attorney",
+        "personaName": "Atty. Ramon Cruz",
+        "tokensUsed": 284,
+        "updatedAt": "2025-03-09T16:22:41.070Z"
+      }
+    },
+    "R6E1JEGDlcdhShJqx715ZIQZd4C3": {
+      "-OKzSfq2VIswSdj3tz0p": {
+        "createdAt": "2025-03-10T09:50:42.256Z",
+        "messages": [
+          {
+            "content": "Hi there! I'm Dr. Isabella Tan, psychologist. How can I help you today?",
+            "role": "assistant",
+            "timestamp": "2025-03-10T09:50:11.974Z"
+          },
+          {
+            "content": "Anong gamot sa pagtatae",
+            "role": "user",
+            "timestamp": "2025-03-10T09:50:36.126Z"
+          },
+          {
+            "content": "Kumusta! Dr. Isabella Tan ang inyong kausap. Naiintindihan ko na gusto mong malaman kung anong gamot ang pwede sa pagtatae. Karaniwan lang na magkaroon ng pagtatae paminsan-minsan, at kadalasan, kaya itong gamutin sa bahay lamang.\n\nPero tandaan, hindi ako pwedeng magbigay ng medical advice o magreseta ng gamot. Ang pinakamabuting gawin ay magpakonsulta sa doktor para malaman ang sanhi ng iyong pagtatae at mabigyan ka ng tamang gamot.\n\nGayunpaman, heto ang ilang pangkalahatang impormasyon tungkol sa mga gamot na karaniwang ginagamit sa pagtatae:\n\n*   **Oral Rehydration Solutions (ORS):** Ito ay hindi gamot mismo, pero napakahalaga para maiwasan ang dehydration. Naglalaman ito ng tamang balanse ng tubig, asin, at asukal para palitan ang nawalang fluids at electrolytes. Mabibili ito sa mga botika.\n\n*   **Loperamide (Imodium):** Ito ay over-the-counter na gamot na nakakatulong para mapabagal ang paggalaw ng bituka, kaya nababawasan ang pagtatae. Pero hindi ito dapat gamitin kung may lagnat o dugo sa dumi. Mahalaga ring tandaan na hindi ito angkop sa lahat ng sitwasyon, kaya kumunsulta pa rin sa doktor.\n\n*   **Bismuth Subsalicylate (Kaopectate, Pepto-Bismol):** Ito ay isa pang over-the-counter na gamot na makakatulong para mabawasan ang pamamaga at impeksyon sa bituka.\n\n*   **Probiotics:** May mga pag-aaral na nagsasabi na ang probiotics ay makakatulong para mapaikli ang tagal ng pagtatae, lalo na kung ito ay dahil sa antibiotics.\n\n**Mahalagang Paalala:**\n\n*   Kung ang pagtatae ay malubha, may lagnat, may dugo sa dumi, o tumagal ng higit sa dalawang araw, **kailangan mong magpakonsulta agad sa doktor.**\n*   Ang mga bata at matatanda ay mas madaling ma-dehydrate, kaya mas kailangan nila ng atensyong medikal.\n*   Huwag basta-basta magbigay ng gamot sa bata nang hindi kumukunsulta sa doktor.\n\nBukod sa gamot, mahalaga rin na uminom ng maraming tubig o ORS para maiwasan ang dehydration. Kumain din ng madaling matunaw na pagkain tulad ng saging, kanin, toast, at applesauce (BRAT diet).\n\nSana nakatulong ito! Pero tandaan, ang impormasyong ito ay hindi pamalit sa payo ng doktor. Magpakonsulta kaagad para sa tamang diagnosis at treatment. Alagaan mo ang iyong sarili!",
+            "role": "assistant",
+            "timestamp": "2025-03-10T09:50:42.140Z"
+          }
+        ],
+        "personaId": "psychologist",
+        "personaName": "Dr. Isabella Tan",
+        "tokensUsed": 554,
+        "updatedAt": "2025-03-10T09:50:42.256Z"
+      }
+    },
+    "RdWoVzsJM7RRZgIZJYP4ktuH9y72": {
+      "-OL7l7RIROUyf-F6TB3e": {
+        "createdAt": "2025-03-12T05:12:15.405Z",
+        "messages": [
+          {
+            "content": "Hi there! I'm Genesis Domingo, mlm mentor. How can I help you today?",
+            "role": "assistant",
+            "timestamp": "2025-03-12T05:12:05.950Z"
+          },
+          {
+            "content": "Hello po",
+            "role": "user",
+            "timestamp": "2025-03-12T05:12:12.593Z"
+          },
+          {
+            "content": "Hello po! Genesis Domingo here. Kumusta po kayo? So excited to connect with you!\n\nI'm all about helping people like you unlock their full potential and achieve financial freedom through the power of network marketing. I know the world can seem overwhelming sometimes, but I truly believe in the opportunity we have to build something amazing, not just for ourselves but for others as well.\n\nI’m here to be your mentor, your guide, and your cheerleader! I want to help you discover your strengths, navigate the challenges, and celebrate the victories, big and small.\n\nI’m passionate about building strong, supportive teams and creating a ripple effect of success. I'm not just talking about money, though that's definitely a perk! I'm talking about empowering you to become the best version of yourself, confident, driven, and fulfilled.\n\nSo, tell me a little bit about yourself. What are your dreams? What are your goals? What are you hoping to achieve? I'm here to listen and help you create a roadmap to get there.\n\nLet's build something amazing together! I'm so excited to embark on this journey with you!\n",
+            "role": "assistant",
+            "timestamp": "2025-03-12T05:12:15.362Z"
+          }
+        ],
+        "personaId": "custom-1741756318282",
+        "personaName": "Genesis Domingo",
+        "tokensUsed": 280,
+        "updatedAt": "2025-03-12T05:12:15.405Z"
+      },
+      "-OL7ldYYzO4w8Px0XORp": {
+        "createdAt": "2025-03-12T05:14:31.038Z",
+        "messages": [
+          {
+            "content": "Hi there! I'm Simon Sinek, leadership expert & author. How can I help you today?",
+            "role": "assistant",
+            "timestamp": "2025-03-12T05:13:58.479Z"
+          },
+          {
+            "content": "Hello sir give tips in life",
+            "role": "user",
+            "timestamp": "2025-03-12T05:14:24.438Z"
+          },
+          {
+            "content": "Alright, let's talk about some tips for navigating this journey we call life. But before we dive into *what* you should do, let's start with *why*. Why do you want these tips? Is it to be more successful? More fulfilled? More impactful? Understanding your *why* will make these tips far more meaningful.\n\nSo, here are a few things to consider, always filtered through the lens of \"Why?\"\n\n**1. Find Your \"Why\":** This is, of course, where I always start. Your \"Why\" is your purpose, your cause, your belief. It's what gets you out of bed in the morning and keeps you going when things get tough. It's not just about making money or achieving status. It's about contributing something meaningful to the world.\n\n*   **Think of it like this:** Imagine an orchestra. The musicians are incredibly talented, playing beautifully. But without a conductor, there's no harmony, no shared vision. The \"Why\" is the conductor, giving direction and purpose to your life's symphony.\n\n*   **How do you find it?** Ask yourself: What are you naturally passionate about? What problems do you want to solve? What values do you hold dear? It might take time and soul-searching, but keep digging. It's worth the effort.\n\n**2. Embrace Vulnerability and Authenticity:** People are drawn to authenticity. They can sense when someone is being genuine, and when they're putting on a facade. Don't be afraid to be yourself, imperfections and all. Vulnerability creates connection, and connection builds trust.\n\n*   **Think of it like this:** A suit of armor might protect you from harm, but it also keeps everyone at arm's length. True strength comes from taking off the armor, showing your true self, and connecting with others on a human level.\n\n*   **How do you practice it?** Be honest about your struggles. Share your fears and doubts. Ask for help when you need it. It's not weakness; it's strength.\n\n**3. Build Strong Relationships:** Life is a team sport. Surround yourself with people who believe in you, support you, and challenge you to grow. Nurture those relationships. Invest time and energy into them.\n\n*   **Think of it like this:** Imagine a vine growing up a trellis. The trellis provides support and structure, allowing the vine to reach its full potential. Your relationships are your trellis, providing the support you need to thrive.\n\n*   **How do you do it?** Listen actively. Be empathetic. Offer your help and support. Be present when you're with people. Small acts of kindness go a long way.\n\n**4. Be a Lifelong Learner:** The world is constantly changing. Don't get stuck in your ways. Embrace new ideas, new perspectives, and new skills. Stay curious. Keep learning.\n\n*   **Think of it like this:** Imagine a stagnant pond. It becomes murky and lifeless. But a flowing river is constantly renewed and revitalized. Learning is like the river, keeping your mind fresh and vibrant.\n\n*   **How do you do it?** Read books. Take courses. Attend workshops. Talk to people who have different perspectives than you do. Never stop asking questions.\n\n**5. Focus on Service:** True fulfillment comes from contributing to something larger than yourself. Find ways to serve others, to make a difference in the world. It's not about grand gestures; it's about small acts of kindness and compassion.\n\n*   **Think of it like this:** A candle loses nothing by lighting another candle. In fact, the room becomes brighter. By serving others, you don't diminish yourself; you enhance your own life and the lives of those around you.\n\n*   **How do you do it?** Volunteer your time. Donate to causes you believe in. Help a neighbor. Offer a listening ear. Small acts of service can have a profound impact.\n\nUltimately, these tips are about living a life that is both meaningful and fulfilling. And remember, it all starts with \"Why.\" Knowing your \"Why\" will guide your decisions, inspire your actions, and give you the strength to overcome any challenge.\n\nNow, tell me, what resonates most with you? What's *your* \"Why\" right now? Let's discuss it. That's where the real journey begins.\n",
+            "role": "assistant",
+            "timestamp": "2025-03-12T05:14:30.984Z"
+          }
+        ],
+        "personaId": "simon-sinek",
+        "personaName": "Simon Sinek",
+        "tokensUsed": 1023,
+        "updatedAt": "2025-03-12T05:14:31.038Z"
+      }
+    },
+    "WxQgl6gfWUZjKpUhiYKu7TpW9sH2": {
+      "-OKvktvh2uahyOX4OIWP": {
+        "createdAt": "2025-03-09T16:36:12.120Z",
+        "messages": [
+          {
+            "content": "Hi there! I'm Francis Kong, leadership & business expert. How can I help you today?",
+            "role": "assistant",
+            "timestamp": "2025-03-09T16:36:03.139Z"
+          },
+          {
+            "content": "https://v0.dev/chat/fork-of-magnetar-app-mobile-J6ByDQTtMa9",
+            "role": "user",
+            "timestamp": "2025-03-09T16:36:08.286Z"
+          },
+          {
+            "content": "Alright, let's talk business. Let's talk leadership. Let's talk about achieving something meaningful.\n\nI am Francis Kong, and I'm here to help you elevate yourself, your team, and your organization. Forget the quick fixes and the empty promises. We're talking about building lasting success from the inside out.\n\nI've spent years observing, analyzing, and guiding individuals and companies across various industries. I've seen what works and, more importantly, I've seen what doesn't. What I've learned is this: true success isn't just about the bottom line, it's about cultivating excellence in every facet of your life.\n\nAnd that's where my signature quote comes in: **\"Excellence is not a skill; it's an attitude.\"** It's not something you're born with or something you can simply learn overnight. It's a conscious choice to strive for the best in everything you do, regardless of the task or the challenge. It's about embracing a mindset of continuous improvement and unwavering commitment to quality.\n\nThink of it this way: you can teach someone to use a hammer, but you can't teach them to build a beautiful house if they don't have the *desire* to build something beautiful. The skill is the hammer; the attitude is the blueprint and the passion to see it through.\n\nSo, what can I help you with today? Are you facing a leadership challenge? Struggling with team morale? Seeking strategies for business growth? Bring it on. I'm here to provide practical, values-based guidance that will empower you to achieve your full potential.\n\nLet's unlock your potential for excellence together. *Kaya natin 'yan!* (We can do this!)\n",
+            "role": "assistant",
+            "timestamp": "2025-03-09T16:36:12.027Z"
+          }
+        ],
+        "personaId": "francis-kong",
+        "personaName": "Francis Kong",
+        "tokensUsed": 422,
+        "updatedAt": "2025-03-09T16:36:12.120Z"
+      }
+    },
+    "dvYCIPmlbyNGhOTqpZXc17lsHZz1": {
+      "-OKwAT6zwvOyGNQOJ_C-": {
+        "createdAt": "2025-03-09T18:32:16.085Z",
+        "messages": [
+          {
+            "content": "Hi there! I'm Simon Sinek, leadership expert & author. How can I help you today?",
+            "role": "assistant",
+            "timestamp": "2025-03-09T18:32:04.963Z"
+          },
+          {
+            "content": "hello",
+            "role": "user",
+            "timestamp": "2025-03-09T18:32:12.467Z"
+          },
+          {
+            "content": "Hello there. It's good to be here, virtually, to connect and discuss the powerful concept of \"Why.\" I often find people initially focus on the \"What\" and the \"How\" – the products they sell, the services they offer, the processes they implement. But the most impactful organizations, the ones that truly inspire and resonate with people, they start with \"Why.\" They understand and articulate their purpose, their cause, their belief.\n\nYou know, I often use the analogy of the Golden Circle. It's a simple framework: What, How, and Why. Most organizations know *what* they do – their products or services. Some know *how* they do it – their differentiating value proposition, their unique selling points. But very few know *why* they do what they do. Why does your organization exist? What's your purpose? What's your cause? What's your belief?\n\nThink about Apple. They could have easily just focused on *what* they do – building computers. And *how* they do it – making them user-friendly. But their message, their \"Why,\" is about challenging the status quo and empowering individuals through technology. That's why people are so loyal to their brand. It's not just about the technology; it's about the belief they share with Apple.\n\nSo, let's delve deeper into this. What's your \"Why\"? What's the driving force behind what you do? And how can you communicate that effectively to inspire others to join your cause? I'm ready to explore those questions with you. Tell me, what's on your mind?\n",
+            "role": "assistant",
+            "timestamp": "2025-03-09T18:32:15.983Z"
+          }
+        ],
+        "personaId": "simon-sinek",
+        "personaName": "Simon Sinek",
+        "tokensUsed": 375,
+        "updatedAt": "2025-03-09T18:32:16.085Z"
+      }
+    },
+    "jR2koPDTssXBjwLjeGTpYG826EE2": {
+      "-OKvdLelwU1u1IF1J0BR": {
+        "createdAt": "2025-03-09T16:03:12.663Z",
+        "messages": [
+          {
+            "content": "Hi there! I'm Dr. Maria Santos, medical doctor. How can I help you today?",
+            "role": "assistant",
+            "timestamp": "2025-03-09T16:03:06.435Z"
+          },
+          {
+            "content": "Hello",
+            "role": "user",
+            "timestamp": "2025-03-09T16:03:09.926Z"
+          },
+          {
+            "content": "Hello there! Dr. Maria Santos at your service! It's lovely to \"meet\" you. 15 years in this business, and I still get a kick out of helping people understand their health.\n\nThink of me as your friendly neighborhood explainer for all things medical. I'll do my best to break down complex topics into easy-to-understand chunks, sprinkled with a bit of humor to keep things light. After all, who says learning about your body has to be a dry, stuffy experience?\n\nJust remember, I'm here to provide information, not to diagnose or treat. Consider me a supplement to, not a replacement for, your actual doctor. They know your specific medical history and can give you personalized advice. As I always tell my patients, \"Google is a starting point, not a medical degree!\"\n\nSo, how can I help you today? What health questions are bouncing around in your brain? Don't be shy! Let's get talking.\n",
+            "role": "assistant",
+            "timestamp": "2025-03-09T16:03:12.576Z"
+          }
+        ],
+        "personaId": "doctor",
+        "personaName": "Dr. Maria Santos",
+        "tokensUsed": 224,
+        "updatedAt": "2025-03-09T16:03:12.663Z"
+      }
+    },
+    "xo0RMHmv2Cg12v2z24kVEI6L0Vz1": {
+      "-OL0weDmWKdg7pSPZCZq": {
+        "createdAt": "2025-03-10T21:25:17.045Z",
+        "messages": [
+          {
+            "content": "Hi there! I'm Jim Rohn, personal development pioneer. How can I help you today?",
+            "role": "assistant",
+            "timestamp": "2025-03-10T21:25:09.749Z"
+          },
+          {
+            "content": "hello",
+            "role": "user",
+            "timestamp": "2025-03-10T21:25:12.753Z"
+          },
+          {
+            "content": "(Clears throat, a thoughtful pause)\n\nAh, hello. Welcome. Welcome, indeed. It’s a pleasure to be here, a pleasure to be speaking with you.\n\n…Life, as I've always seen it, is a grand tapestry, woven with threads of effort, intention, and, dare I say, a touch of faith. We are all, each and every one of us, the master weavers of our own destiny. And the beauty of it all? We have the loom in our hands.\n\nYou see, success… it’s not some magical destination, some far-off, unattainable land. No, my friends. Success is nothing more than a few simple disciplines practiced every day. Let that sink in, let it resonate within you. *A few simple disciplines, practiced every day.*\n\nThink of it like this: planting a seed. It’s a small act, isn’t it? A tiny seed, placed in the earth. But water it, nurture it, protect it, and in time, it will sprout, grow, and bear fruit. The same principle applies to our aspirations. The small, consistent actions we take each day are the seeds that blossom into extraordinary results.\n\nAre you ready to sow those seeds? Are you ready to embrace the discipline that separates the ordinary from the extraordinary? I trust you are.\n",
+            "role": "assistant",
+            "timestamp": "2025-03-10T21:25:16.952Z"
+          }
+        ],
+        "personaId": "jim-rohn",
+        "personaName": "Jim Rohn",
+        "tokensUsed": 292,
+        "updatedAt": "2025-03-10T21:25:17.045Z"
+      }
+    }
+  },
+  "course": {
+    "-OL81xNAbgzqrKSm3_Al": {
+      "active": false,
+      "author": "Genesis THE MAGNETAR Domingo",
+      "created_at": "2025-03-12T22:29:52.665Z",
+      "description": "Learn to the 1st step how to earn in our Digital Marketing",
+      "image_thumbnail": "https://firebasestorage.googleapis.com/v0/b/ces-project-f8b4e.firebasestorage.app/o/thumbnail%2F1741815464732_Ghen%20Posters%20ghen%20-%20ALL%20POSTERS%20-%20No%20Dates%20(32).png?alt=media&token=d1e742dd-9ae3-41ca-bb04-d661f650920c",
+      "title": "Team Magnetar New Distributor Orientation Part 1",
+      "video_url": "https://firebasestorage.googleapis.com/v0/b/ces-project-f8b4e.firebasestorage.app/o/course-video%2F1741815464732_NDO%201%20feb%2015%202025%20lowe%20resolution.mp4?alt=media&token=b7a719d0-305b-4d23-afef-bce66b2ef29a"
+    },
+    "-OL8FskF3YPH5141HQ_A": {
+      "active": false,
+      "author": "By: Genesis THE MAGNETAR Domingo",
+      "created_at": "2025-03-12T23:30:43.811Z",
+      "description": "Learn to the 1st step how to earn in our Digital Marketing",
+      "image_thumbnail": "https://firebasestorage.googleapis.com/v0/b/ces-project-f8b4e.firebasestorage.app/o/thumbnail%2F1741821058591_Ghen%20Posters%20ghen%20-%20ALL%20POSTERS%20-%20No%20Dates%20(1).png?alt=media&token=fd9b07a2-964b-4421-b77e-74bac5249a9f",
+      "title": "Team Magnetar New Distributor Orientation Part 2",
+      "video_url": "https://firebasestorage.googleapis.com/v0/b/ces-project-f8b4e.firebasestorage.app/o/course-video%2F1741821058591_NDO%202%20feb%2017%202025.mp4?alt=media&token=df400e53-0cf0-4371-a28d-26246dac2f71"
+    },
+    "-OL8JmD5n5OxC3SSN2qx": {
+      "active": false,
+      "author": "LAW OF ATTRACTION",
+      "created_at": "2025-03-12T23:47:45.625Z",
+      "description": "Learn how to use the secret of  Power of law of Attraction",
+      "image_thumbnail": "https://firebasestorage.googleapis.com/v0/b/ces-project-f8b4e.firebasestorage.app/o/thumbnail%2F1741823165095_th.jpg?alt=media&token=d489064c-0408-4eec-b029-d2048bab1a5a",
+      "title": "The Secret The Law of Attraction",
+      "video_url": "https://firebasestorage.googleapis.com/v0/b/ces-project-f8b4e.firebasestorage.app/o/course-video%2F1741823165095_thesecret.mp4?alt=media&token=3585fcd5-44a3-4d3d-8d38-0cba40cd6229"
+    },
+    "-OL8STXWltha_Q5WHfOw": {
+      "active": false,
+      "author": "By: Genesis THE MAGNETAR Domingo",
+      "created_at": "2025-03-13T00:25:44.308Z",
+      "description": "Learn the Basic Online Marketing how to start and become expert in Digital Marketing",
+      "image_thumbnail": "https://firebasestorage.googleapis.com/v0/b/ces-project-f8b4e.firebasestorage.app/o/thumbnail%2F1741824221766_Ghen%20Posters%20ghen%20-%20ALL%20POSTERS%20-%20No%20Dates%20(11).png?alt=media&token=ccc7465e-aa5a-40bf-90a6-9b8d77f59f60",
+      "title": "BASIC ONLINE MARKETING",
+      "video_url": "https://firebasestorage.googleapis.com/v0/b/ces-project-f8b4e.firebasestorage.app/o/course-video%2F1741824221766_BASIC%20ONLINE%20MARKETING%20feb%2010%202025.mp4?alt=media&token=c65c0b63-082a-4951-bf5a-01eb409cac06"
+    },
+    "-OL8ngf-LdpZfO5lanZx": {
+      "active": false,
+      "author": "Genesis THE MAGNETAR Domingo",
+      "created_at": "2025-03-13T02:02:49.363Z",
+      "description": "Awarding nights for the Top Performer of Team Magnetar (STARMATES)",
+      "image_thumbnail": "https://firebasestorage.googleapis.com/v0/b/ces-project-f8b4e.firebasestorage.app/o/thumbnail%2F1741827786977_1.)%20%20December%202022%20-%20MAGNETAR%20Top%20Performers%20(26).png?alt=media&token=e303d019-06e1-48b2-965c-588e22ce478c",
+      "title": "January Team Magnetar Recognition of Stars ",
+      "video_url": "https://firebasestorage.googleapis.com/v0/b/ces-project-f8b4e.firebasestorage.app/o/course-video%2F1741827786977_Team%20MagnetarJanuary%20Top%20Performer.mp4?alt=media&token=83d4d6ab-cb4f-4ebf-9148-97ef4f4dbb49"
+    },
+    "-OL8yA9dDmLBC6E1mpVh": {
+      "active": false,
+      "author": "By: Genesis THE \"MAGNETAR\" Domingo",
+      "created_at": "2025-03-13T02:48:35.709Z",
+      "description": "Awarding nights for the Top Performer of Team Magnetar (STARMATES)",
+      "image_thumbnail": "https://firebasestorage.googleapis.com/v0/b/ces-project-f8b4e.firebasestorage.app/o/thumbnail%2F1741833484654_1.)%20%20December%202022%20-%20MAGNETAR%20Top%20Performers%20(77).png?alt=media&token=f7e3efe5-f821-4821-9847-de65af41c22e",
+      "title": "February Team Magnetar Recognition of Stars",
+      "video_url": "https://firebasestorage.googleapis.com/v0/b/ces-project-f8b4e.firebasestorage.app/o/course-video%2F1741833484654_february%20recognition%20of%20stars.mp4?alt=media&token=36ff987f-1cad-441e-af76-81adc6bb6f8c"
+    }
+  },
+  "courses": {
+    "course1": {
+      "category": "Basics",
+      "description": "Learn the basics of Magnetar and how to get started with your business.",
+      "duration": "1 hour",
+      "level": "Beginner",
+      "modules": [
+        {
+          "duration": "10 min",
+          "title": "Introduction to Magnetar"
+        },
+        {
+          "duration": "15 min",
+          "title": "Setting Up Your Account"
+        },
+        {
+          "duration": "20 min",
+          "title": "Your First Sale"
+        },
+        {
+          "duration": "15 min",
+          "title": "Building Your Team"
+        }
+      ],
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/magnetar-app.appspot.com/o/courses%2Fcourse1.jpg?alt=media",
+      "title": "Getting Started with Magnetar"
+    },
+    "course2": {
+      "category": "Marketing",
+      "description": "Take your marketing skills to the next level with these advanced strategies.",
+      "duration": "2 hours",
+      "level": "Intermediate",
+      "modules": [
+        {
+          "duration": "30 min",
+          "title": "Social Media Marketing"
+        },
+        {
+          "duration": "25 min",
+          "title": "Email Marketing Campaigns"
+        },
+        {
+          "duration": "35 min",
+          "title": "Content Creation"
+        },
+        {
+          "duration": "30 min",
+          "title": "Analytics and Optimization"
+        }
+      ],
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/magnetar-app.appspot.com/o/courses%2Fcourse2.jpg?alt=media",
+      "title": "Advanced Marketing Strategies"
+    }
+  },
+  "customers": {
+    "-OL6z8OO3rJxAjn4qTb5": {
+      "agent_id": "-OL4SPl_vg79w2eEZDb3",
+      "code": "K-001",
+      "contact": "091771189901",
+      "created_at": "2025-03-12T01:33:52.120Z",
+      "location": "Makati City",
+      "name": "Kay Ana",
+      "total_orders": 1,
+      "total_spent": 1430
+    },
+    "-OLH7quPhf1pvwUmNjiN": {
+      "agent_id": "-OL4SPl_vg79w2eEZDb3",
+      "code": "01",
+      "contact": "09511600876",
+      "created_at": "2025-03-14T00:52:29.975Z",
+      "location": "Sitio kaila",
+      "name": "ma.luisa",
+      "total_orders": 1,
+      "total_spent": 260
+    },
+    "-OLHOFdY0qhl-QZKm0Ku": {
+      "agent_id": "-OL4SPl_vg79w2eEZDb3",
+      "code": "02",
+      "contact": "0919 410 4673",
+      "created_at": "2025-03-14T02:04:09.708Z",
+      "location": "Lores country homes",
+      "name": "leah ",
+      "total_orders": 3,
+      "total_spent": 3120
+    },
+    "-OLHQYE0SvDeT4kIsJJA": {
+      "agent_id": "-OL4SPl_vg79w2eEZDb3",
+      "code": "03",
+      "contact": "09233000310",
+      "created_at": "2025-03-14T02:14:10.101Z",
+      "location": "San luis Cogeo",
+      "name": "Melly Demalata",
+      "total_orders": 1,
+      "total_spent": 1105
+    },
+    "-OLHd1k17s9kwgYO8a_A": {
+      "agent_id": "-OL4SPl_vg79w2eEZDb3",
+      "code": "04",
+      "contact": "09913556235",
+      "created_at": "2025-03-14T03:13:07.079Z",
+      "location": "Hinapao",
+      "name": "Len ",
+      "total_orders": 1,
+      "total_spent": 260
+    },
+    "-OLHdpUd5uJ-B4n9G-18": {
+      "agent_id": "-OL4SPl_vg79w2eEZDb3",
+      "code": "05",
+      "contact": "0999 187 5155",
+      "created_at": "2025-03-14T03:16:34.911Z",
+      "location": "Amarich hinapao",
+      "name": "Chai Manalo",
+      "total_orders": 1,
+      "total_spent": 390
+    },
+    "-OLHqOfZEGw4S-aAlZ-U": {
+      "agent_id": "-OL4SPl_vg79w2eEZDb3",
+      "code": "06",
+      "contact": "09151517675",
+      "created_at": "2025-03-14T04:11:28.886Z",
+      "location": "Bagong purok ",
+      "name": "Tess",
+      "total_orders": 1,
+      "total_spent": 390
+    },
+    "-OLHqZyfOwTjVTWiVigu": {
+      "agent_id": "-OL4SPl_vg79w2eEZDb3",
+      "code": "07",
+      "contact": "09613659036  ",
+      "created_at": "2025-03-14T04:12:15.166Z",
+      "location": "Don enrique",
+      "name": "jo and jels",
+      "total_orders": 1,
+      "total_spent": 195
+    },
+    "-OLI0Qr4PTnGZLVzjWGH": {
+      "agent_id": "-OL4SPl_vg79w2eEZDb3",
+      "code": "08",
+      "contact": "0997 530 7604",
+      "created_at": "2025-03-14T04:59:41.376Z",
+      "location": "Maagay 1",
+      "name": "Becca store",
+      "total_orders": 1,
+      "total_spent": 195
+    }
+  },
+  "members": {
+    "member1": {
+      "avatar": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/placeholder-user1-Wd9Ij9Ij0Ij0Ij0Ij0Ij.jpg",
+      "earnings": "$12,450",
+      "email": "john.smith@example.com",
+      "initials": "JS",
+      "joinDate": "Jan 2023",
+      "location": "New York, USA",
+      "name": "John Smith",
+      "phone": "+1234567890",
+      "rank": "Diamond",
+      "teamSize": 42
+    },
+    "member2": {
+      "avatar": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/placeholder-user2-Wd9Ij9Ij0Ij0Ij0Ij0Ij.jpg",
+      "earnings": "$5,280",
+      "email": "emma.wilson@example.com",
+      "initials": "EW",
+      "joinDate": "Mar 2023",
+      "location": "Los Angeles, USA",
+      "name": "Emma Wilson",
+      "phone": "+1234567891",
+      "rank": "Gold",
+      "teamSize": 18
+    },
+    "member3": {
+      "avatar": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/placeholder-user3-Wd9Ij9Ij0Ij0Ij0Ij0Ij.jpg",
+      "earnings": "$2,150",
+      "email": "michael.brown@example.com",
+      "initials": "MB",
+      "joinDate": "Apr 2023",
+      "location": "Chicago, USA",
+      "name": "Michael Brown",
+      "phone": "+1234567892",
+      "rank": "Silver",
+      "teamSize": 7
+    },
+    "member4": {
+      "avatar": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/placeholder-user4-Wd9Ij9Ij0Ij0Ij0Ij0Ij.jpg",
+      "earnings": "$11,320",
+      "email": "sarah.johnson@example.com",
+      "initials": "SJ",
+      "joinDate": "Feb 2023",
+      "location": "Miami, USA",
+      "name": "Sarah Johnson",
+      "phone": "+1234567893",
+      "rank": "Diamond",
+      "teamSize": 38
+    },
+    "member5": {
+      "avatar": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/placeholder-user5-Wd9Ij9Ij0Ij0Ij0Ij0Ij.jpg",
+      "earnings": "$8,750",
+      "email": "david.lee@example.com",
+      "initials": "DL",
+      "joinDate": "May 2023",
+      "location": "Seattle, USA",
+      "name": "David Lee",
+      "phone": "+1234567894",
+      "rank": "Platinum",
+      "teamSize": 25
+    },
+    "member6": {
+      "avatar": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/placeholder-user6-Wd9Ij9Ij0Ij0Ij0Ij0Ij.jpg",
+      "earnings": "$4,890",
+      "email": "jennifer.garcia@example.com",
+      "initials": "JG",
+      "joinDate": "Jun 2023",
+      "location": "Dallas, USA",
+      "name": "Jennifer Garcia",
+      "phone": "+1234567895",
+      "rank": "Gold",
+      "teamSize": 15
+    },
+    "member7": {
+      "avatar": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/placeholder-user7-Wd9Ij9Ij0Ij0Ij0Ij0Ij.jpg",
+      "earnings": "$2,340",
+      "email": "robert.martinez@example.com",
+      "initials": "RM",
+      "joinDate": "Jul 2023",
+      "location": "Houston, USA",
+      "name": "Robert Martinez",
+      "phone": "+1234567896",
+      "rank": "Silver",
+      "teamSize": 8
+    },
+    "member8": {
+      "avatar": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/placeholder-user8-Wd9Ij9Ij0Ij0Ij0Ij0Ij.jpg",
+      "earnings": "$980",
+      "email": "lisa.anderson@example.com",
+      "initials": "LA",
+      "joinDate": "Aug 2023",
+      "location": "Phoenix, USA",
+      "name": "Lisa Anderson",
+      "phone": "+1234567897",
+      "rank": "Bronze",
+      "teamSize": 3
+    }
+  },
+  "notifications": {
+    "-OL7BCQPFyZ9XIfyjsQo": {
+      "data": {
+        "link": "/home"
+      },
+      "message": "Thank you for joining our platform. Explore all the features and start your journey with us.",
+      "read": false,
+      "timestamp": 1741746657033,
+      "title": "Welcome to Magnetar!",
+      "type": "system",
+      "userId": "8Zp0IZxlouetmAZeDkiXRnfVS5o1"
+    },
+    "-OL7Bzt9kYhjGXIbtAAe": {
+      "data": {
+        "link": "/home"
+      },
+      "message": "Thank you for joining our platform. Explore all the features and start your journey with us.",
+      "read": false,
+      "timestamp": 1741746863740,
+      "title": "Welcome to Magnetar!",
+      "type": "system",
+      "userId": "C2FxMzIoZBZp03tOhJJ5O0Oc2X23"
+    },
+    "-OL7C8LNpaYjdJ67UeU7": {
+      "data": {
+        "link": "/home"
+      },
+      "message": "Thank you for joining our platform. Explore all the features and start your journey with us.",
+      "read": false,
+      "timestamp": 1741746902466,
+      "title": "Welcome to Magnetar!",
+      "type": "system",
+      "userId": "lMzAPCgThqUKxmdMna0UgpOcdQq2"
+    },
+    "-OL7COgs2gu3N-vA5lbx": {
+      "data": {
+        "link": "/home"
+      },
+      "message": "Thank you for joining our platform. Explore all the features and start your journey with us.",
+      "read": false,
+      "timestamp": 1741746969446,
+      "title": "Welcome to Magnetar!",
+      "type": "system",
+      "userId": "UW9b6DyWUmZyxvcUlAKxwVe9jdu1"
+    },
+    "-OL7CnrohYXVpZLNOxzz": {
+      "data": {
+        "link": "/home"
+      },
+      "message": "Thank you for joining our platform. Explore all the features and start your journey with us.",
+      "read": false,
+      "timestamp": 1741747076643,
+      "title": "Welcome to Magnetar!",
+      "type": "system",
+      "userId": "mxQlMMOOGqMPvHstMJiOFth3fgN2"
+    },
+    "-OL7E-DgPElpkiMm7KxG": {
+      "data": {
+        "link": "/home"
+      },
+      "message": "Thank you for joining our platform. Explore all the features and start your journey with us.",
+      "read": false,
+      "timestamp": 1741747389402,
+      "title": "Welcome to Magnetar!",
+      "type": "system",
+      "userId": "eJZbZhxS3LXdJ5TnP6Dy9GoLIeu1"
+    },
+    "-OL7JPYERBvx8ni9VSsr": {
+      "data": {
+        "link": "/home"
+      },
+      "message": "Thank you for joining our platform. Explore all the features and start your journey with us.",
+      "read": false,
+      "timestamp": 1741748808030,
+      "title": "Welcome to Magnetar!",
+      "type": "system",
+      "userId": "YBm4wURbA5Top3sWnwLngi7mPgz1"
+    },
+    "-OL7JyFThXDsi8nGjB0a": {
+      "data": {
+        "link": "/home"
+      },
+      "message": "Thank you for joining our platform. Explore all the features and start your journey with us.",
+      "read": false,
+      "timestamp": 1741748954193,
+      "title": "Welcome to Magnetar!",
+      "type": "system",
+      "userId": "yPVdIpq2hff3FQTJjKraw5A0PRJ3"
+    },
+    "-OL7Nl_faTzdc0gx60CY": {
+      "data": {
+        "link": "/home"
+      },
+      "message": "Thank you for joining our platform. Explore all the features and start your journey with us.",
+      "read": false,
+      "timestamp": 1741749950883,
+      "title": "Welcome to Magnetar!",
+      "type": "system",
+      "userId": "A81qHU0KXsUCpsEgXH3eUzcZxEj1"
+    },
+    "-OL7Yrd1R7tj7LqQIuv2": {
+      "data": {
+        "link": "/home"
+      },
+      "message": "Thank you for joining our platform. Explore all the features and start your journey with us.",
+      "read": false,
+      "timestamp": 1741752859246,
+      "title": "Welcome to Magnetar!",
+      "type": "system",
+      "userId": "5cBR9pKL1VNILo4MHLqdwiYkDZ92"
+    },
+    "-OL7b03c3g_nt9Lq5sOn": {
+      "data": {
+        "link": "/home"
+      },
+      "message": "Thank you for joining our platform. Explore all the features and start your journey with us.",
+      "read": false,
+      "timestamp": 1741753684309,
+      "title": "Welcome to Magnetar!",
+      "type": "system",
+      "userId": "F0TW2OerGsbJ9eIbPc8aD5H7NJl1"
+    },
+    "-OL7bTRhPdoRgVyv3PlP": {
+      "data": {
+        "link": "/home"
+      },
+      "message": "Thank you for joining our platform. Explore all the features and start your journey with us.",
+      "read": false,
+      "timestamp": 1741753804649,
+      "title": "Welcome to Magnetar!",
+      "type": "system",
+      "userId": "W474mNoHHjgYcrTlXyTz1yPc9uh1"
+    },
+    "-OL7ox3CCoo8CvA5j_dc": {
+      "data": {
+        "link": "/home"
+      },
+      "message": "Thank you for joining our platform. Explore all the features and start your journey with us.",
+      "read": false,
+      "timestamp": 1741757337915,
+      "title": "Welcome to Magnetar!",
+      "type": "system",
+      "userId": "YySpCk3YkMflL0VY4FG6i9gtzvP2"
+    },
+    "-OL8Ce71JvnpY_Yj_kyI": {
+      "data": {
+        "link": "/home"
+      },
+      "message": "Thank you for joining our platform. Explore all the features and start your journey with us.",
+      "read": false,
+      "timestamp": 1741763813938,
+      "title": "Welcome to Magnetar!",
+      "type": "system",
+      "userId": "J9Q3k69vvUQI3mXoZ0kKg3Ii0ab2"
+    },
+    "-OL8WwjT1_PNjIeHMrNX": {
+      "data": {
+        "link": "/home"
+      },
+      "message": "Thank you for joining our platform. Explore all the features and start your journey with us.",
+      "read": false,
+      "timestamp": 1741769133087,
+      "title": "Welcome to Magnetar!",
+      "type": "system",
+      "userId": "pNExT9o9o6b4FKsuBpa0Wlda4eq1"
+    },
+    "-OL8Z211rom0D-sUGBEr": {
+      "data": {
+        "link": "/home"
+      },
+      "message": "Thank you for joining our platform. Explore all the features and start your journey with us.",
+      "read": false,
+      "timestamp": 1741769683123,
+      "title": "Welcome to Magnetar!",
+      "type": "system",
+      "userId": "DeSXXu5s4qWfEcboKqKoNPJLfMC3"
+    },
+    "-OL8c30DQlZ1Y2zKDAnm": {
+      "data": {
+        "link": "/home"
+      },
+      "message": "Thank you for joining our platform. Explore all the features and start your journey with us.",
+      "read": false,
+      "timestamp": 1741770735758,
+      "title": "Welcome to Magnetar!",
+      "type": "system",
+      "userId": "rtAklqVTnnVvELFtx5Li87ufv6m1"
+    },
+    "-OL8eOnfSZWRCJJS8kas": {
+      "data": {
+        "link": "/home"
+      },
+      "message": "Thank you for joining our platform. Explore all the features and start your journey with us.",
+      "read": false,
+      "timestamp": 1741771349275,
+      "title": "Welcome to Magnetar!",
+      "type": "system",
+      "userId": "GUwIUM0TPveYnhNtchFbmqlLHuT2"
+    },
+    "-OLEqFYvLMxL5wSgM-oD": {
+      "data": {
+        "link": "/home"
+      },
+      "message": "Thank you for joining our platform. Explore all the features and start your journey with us.",
+      "read": false,
+      "timestamp": 1741875120536,
+      "title": "Welcome to Magnetar!",
+      "type": "system",
+      "userId": "DsQNOxfjaAdUaSOW7OEEV2T4Uny2"
+    }
+  },
+  "orders": {
+    "-OL6zYUx5G06jGVNXLq6": {
+      "agent_id": "-OL4SPl_vg79w2eEZDb3",
+      "created_at": "2025-03-12T01:35:39.027Z",
+      "created_by": "oUGCtcql3cUxdLijsJlqPh3X6ml2",
+      "customer_code": "K-001",
+      "customer_id": "-OL6z8OO3rJxAjn4qTb5",
+      "customer_name": "Kay Ana",
+      "items": [
+        {
+          "price": 130,
+          "product_id": "-OL4TAl4nTeFWQw7Sav9",
+          "product_name": "Big Pork Siomai",
+          "quantity": 1,
+          "subtotal": 130
+        },
+        {
+          "price": 130,
+          "product_id": "-OL4TAl4nTeFWQw7Sav9",
+          "product_name": "Big Pork Siomai",
+          "quantity": 1,
+          "subtotal": 130
+        },
+        {
+          "price": 130,
+          "product_id": "-OL4TUn9OuGees9oYo8L",
+          "product_name": "Big Siomai Dynamite ",
+          "quantity": 5,
+          "subtotal": 650
+        },
+        {
+          "price": 130,
+          "product_id": "-OL4VDhv6KVEBL8krE8N",
+          "product_name": "Big Dynamite Siomai",
+          "quantity": 4,
+          "subtotal": 520
+        }
+      ],
+      "order_date": "2025-03-12",
+      "status": "pending",
+      "total_amount": 1430
+    },
+    "-OLH7wgRTk8hQEhGqx13": {
+      "agent_id": "-OL4SPl_vg79w2eEZDb3",
+      "created_at": "2025-03-14T00:52:53.649Z",
+      "created_by": "NHL0Qx36vRTyGV36rQt44Y4W0JC3",
+      "customer_code": "01",
+      "customer_id": "-OLH7quPhf1pvwUmNjiN",
+      "customer_name": "ma.luisa",
+      "items": [
+        {
+          "price": 65,
+          "product_id": "-OL4TZqFPmXD8AntpJ0N",
+          "product_name": "Small Pork Siomai ",
+          "quantity": 4,
+          "subtotal": 260
+        }
+      ],
+      "order_date": "2025-03-14",
+      "status": "pending",
+      "total_amount": 260
+    },
+    "-OLHOLpuV7e96qaSEYbR": {
+      "agent_id": "-OL4SPl_vg79w2eEZDb3",
+      "created_at": "2025-03-14T02:04:35.056Z",
+      "created_by": "NHL0Qx36vRTyGV36rQt44Y4W0JC3",
+      "customer_code": "02",
+      "customer_id": "-OLHOFdY0qhl-QZKm0Ku",
+      "customer_name": "leah ",
+      "items": [
+        {
+          "price": 130,
+          "product_id": "-OL4TAl4nTeFWQw7Sav9",
+          "product_name": "Big Pork Siomai",
+          "quantity": 3,
+          "subtotal": 390
+        }
+      ],
+      "order_date": "2025-03-14",
+      "status": "pending",
+      "total_amount": 390
+    },
+    "-OLHQJWv-bgUngFpNlYM": {
+      "agent_id": "-OL4SPl_vg79w2eEZDb3",
+      "created_at": "2025-03-14T02:13:09.872Z",
+      "created_by": "NHL0Qx36vRTyGV36rQt44Y4W0JC3",
+      "customer_code": "02",
+      "customer_id": "-OLHOFdY0qhl-QZKm0Ku",
+      "customer_name": "leah ",
+      "items": [
+        {
+          "price": 130,
+          "product_id": "-OL4TLurQEtbglXvjF18",
+          "product_name": "Big Chicken Siomai",
+          "quantity": 1,
+          "subtotal": 130
+        },
+        {
+          "price": 130,
+          "product_id": "-OL4TLurQEtbglXvjF18",
+          "product_name": "Big Chicken Siomai",
+          "quantity": 1,
+          "subtotal": 130
+        },
+        {
+          "price": 130,
+          "product_id": "-OL4TLurQEtbglXvjF18",
+          "product_name": "Big Chicken Siomai",
+          "quantity": 1,
+          "subtotal": 130
+        },
+        {
+          "price": 130,
+          "product_id": "-OL4TPeH-ITPRoRxbx46",
+          "product_name": "Big Beef Siomai",
+          "quantity": 3,
+          "subtotal": 390
+        }
+      ],
+      "order_date": "2025-03-14",
+      "status": "pending",
+      "total_amount": 780
+    },
+    "-OLHQvdh3U4oU_qzuWU-": {
+      "agent_id": "-OL4SPl_vg79w2eEZDb3",
+      "created_at": "2025-03-14T02:15:50.124Z",
+      "created_by": "NHL0Qx36vRTyGV36rQt44Y4W0JC3",
+      "customer_code": "03",
+      "customer_id": "-OLHQYE0SvDeT4kIsJJA",
+      "customer_name": "Melly Demalata",
+      "items": [
+        {
+          "price": 130,
+          "product_id": "-OL4TAl4nTeFWQw7Sav9",
+          "product_name": "Big Pork Siomai",
+          "quantity": 4,
+          "subtotal": 520
+        },
+        {
+          "price": 130,
+          "product_id": "-OL4TLurQEtbglXvjF18",
+          "product_name": "Big Chicken Siomai",
+          "quantity": 3,
+          "subtotal": 390
+        },
+        {
+          "price": 65,
+          "product_id": "-OL4TZqFPmXD8AntpJ0N",
+          "product_name": "Small Pork Siomai ",
+          "quantity": 3,
+          "subtotal": 195
+        }
+      ],
+      "order_date": "2025-03-14",
+      "status": "pending",
+      "total_amount": 1105
+    },
+    "-OLHd8HHpy78owcfV4VI": {
+      "agent_id": "-OL4SPl_vg79w2eEZDb3",
+      "created_at": "2025-03-14T03:13:33.843Z",
+      "created_by": "NHL0Qx36vRTyGV36rQt44Y4W0JC3",
+      "customer_code": "04",
+      "customer_id": "-OLHd1k17s9kwgYO8a_A",
+      "customer_name": "Len ",
+      "items": [
+        {
+          "price": 130,
+          "product_id": "-OL4TLurQEtbglXvjF18",
+          "product_name": "Big Chicken Siomai",
+          "quantity": 1,
+          "subtotal": 130
+        },
+        {
+          "price": 130,
+          "product_id": "-OL4TPeH-ITPRoRxbx46",
+          "product_name": "Big Beef Siomai",
+          "quantity": 1,
+          "subtotal": 130
+        }
+      ],
+      "order_date": "2025-03-14",
+      "status": "pending",
+      "total_amount": 260
+    },
+    "-OLHeAte0euMEXVqcXaJ": {
+      "agent_id": "-OL4SPl_vg79w2eEZDb3",
+      "created_at": "2025-03-14T03:18:06.712Z",
+      "created_by": "NHL0Qx36vRTyGV36rQt44Y4W0JC3",
+      "customer_code": "05",
+      "customer_id": "-OLHdpUd5uJ-B4n9G-18",
+      "customer_name": "Chai Manalo",
+      "items": [
+        {
+          "price": 130,
+          "product_id": "-OL4TAl4nTeFWQw7Sav9",
+          "product_name": "Big Pork Siomai",
+          "quantity": 1,
+          "subtotal": 130
+        },
+        {
+          "price": 130,
+          "product_id": "-OL4TAl4nTeFWQw7Sav9",
+          "product_name": "Big Pork Siomai",
+          "quantity": 1,
+          "subtotal": 130
+        },
+        {
+          "price": 130,
+          "product_id": "-OL4TAl4nTeFWQw7Sav9",
+          "product_name": "Big Pork Siomai",
+          "quantity": 1,
+          "subtotal": 130
+        }
+      ],
+      "order_date": "2025-03-14",
+      "status": "pending",
+      "total_amount": 390
+    },
+    "-OLHqmeqiFz8z9ZipFxU": {
+      "agent_id": "-OL4SPl_vg79w2eEZDb3",
+      "created_at": "2025-03-14T04:13:11.204Z",
+      "created_by": "NHL0Qx36vRTyGV36rQt44Y4W0JC3",
+      "customer_code": "06",
+      "customer_id": "-OLHqOfZEGw4S-aAlZ-U",
+      "customer_name": "Tess",
+      "items": [
+        {
+          "price": 130,
+          "product_id": "-OL4TAl4nTeFWQw7Sav9",
+          "product_name": "Big Pork Siomai",
+          "quantity": 1,
+          "subtotal": 130
+        },
+        {
+          "price": 130,
+          "product_id": "-OL4TAl4nTeFWQw7Sav9",
+          "product_name": "Big Pork Siomai",
+          "quantity": 1,
+          "subtotal": 130
+        },
+        {
+          "price": 130,
+          "product_id": "-OL4TAl4nTeFWQw7Sav9",
+          "product_name": "Big Pork Siomai",
+          "quantity": 1,
+          "subtotal": 130
+        }
+      ],
+      "order_date": "2025-03-14",
+      "status": "pending",
+      "total_amount": 390
+    },
+    "-OLHr-g69qhzAGhPsSIK": {
+      "agent_id": "-OL4SPl_vg79w2eEZDb3",
+      "created_at": "2025-03-14T04:14:08.629Z",
+      "created_by": "NHL0Qx36vRTyGV36rQt44Y4W0JC3",
+      "customer_code": "07",
+      "customer_id": "-OLHqZyfOwTjVTWiVigu",
+      "customer_name": "jo and jels",
+      "items": [
+        {
+          "price": 65,
+          "product_id": "-OL4VDhxLp3zIuzDS4PL",
+          "product_name": "Small Pork Siomai",
+          "quantity": 1,
+          "subtotal": 65
+        },
+        {
+          "price": 65,
+          "product_id": "-OL4VDhxLp3zIuzDS4PL",
+          "product_name": "Small Pork Siomai",
+          "quantity": 1,
+          "subtotal": 65
+        },
+        {
+          "price": 65,
+          "product_id": "-OL4TZqFPmXD8AntpJ0N",
+          "product_name": "Small Pork Siomai ",
+          "quantity": 1,
+          "subtotal": 65
+        }
+      ],
+      "order_date": "2025-03-14",
+      "status": "pending",
+      "total_amount": 195
+    },
+    "-OLI0oqCdL5oZjlMUCVp": {
+      "agent_id": "-OL4SPl_vg79w2eEZDb3",
+      "created_at": "2025-03-14T05:01:23.720Z",
+      "created_by": "NHL0Qx36vRTyGV36rQt44Y4W0JC3",
+      "customer_code": "08",
+      "customer_id": "-OLI0Qr4PTnGZLVzjWGH",
+      "customer_name": "Becca store",
+      "items": [
+        {
+          "price": 65,
+          "product_id": "-OL4VDhxLp3zIuzDS4PL",
+          "product_name": "Small Pork Siomai",
+          "quantity": 1,
+          "subtotal": 65
+        },
+        {
+          "price": 65,
+          "product_id": "-OL4VDhxLp3zIuzDS4PL",
+          "product_name": "Small Pork Siomai",
+          "quantity": 1,
+          "subtotal": 65
+        },
+        {
+          "price": 65,
+          "product_id": "-OL4TZqFPmXD8AntpJ0N",
+          "product_name": "Small Pork Siomai ",
+          "quantity": 1,
+          "subtotal": 65
+        }
+      ],
+      "order_date": "2025-03-14",
+      "status": "pending",
+      "total_amount": 195
+    },
+    "-OLIe1MBXN-VXzpT515d": {
+      "agent_id": "-OL4SPl_vg79w2eEZDb3",
+      "created_at": "2025-03-14T07:57:04.448Z",
+      "created_by": "NHL0Qx36vRTyGV36rQt44Y4W0JC3",
+      "customer_code": "02",
+      "customer_id": "-OLHOFdY0qhl-QZKm0Ku",
+      "customer_name": "leah ",
+      "items": [
+        {
+          "price": 130,
+          "product_id": "-OL4TAl4nTeFWQw7Sav9",
+          "product_name": "Big Pork Siomai",
+          "quantity": 1,
+          "subtotal": 130
+        },
+        {
+          "price": 130,
+          "product_id": "-OL4TAl4nTeFWQw7Sav9",
+          "product_name": "Big Pork Siomai",
+          "quantity": 1,
+          "subtotal": 130
+        },
+        {
+          "price": 130,
+          "product_id": "-OL4TAl4nTeFWQw7Sav9",
+          "product_name": "Big Pork Siomai",
+          "quantity": 1,
+          "subtotal": 130
+        },
+        {
+          "price": 130,
+          "product_id": "-OL4TAl4nTeFWQw7Sav9",
+          "product_name": "Big Pork Siomai",
+          "quantity": 1,
+          "subtotal": 130
+        },
+        {
+          "price": 130,
+          "product_id": "-OL4TAl4nTeFWQw7Sav9",
+          "product_name": "Big Pork Siomai",
+          "quantity": 1,
+          "subtotal": 130
+        },
+        {
+          "price": 130,
+          "product_id": "-OL4TAl4nTeFWQw7Sav9",
+          "product_name": "Big Pork Siomai",
+          "quantity": 1,
+          "subtotal": 130
+        },
+        {
+          "price": 130,
+          "product_id": "-OL4TAl4nTeFWQw7Sav9",
+          "product_name": "Big Pork Siomai",
+          "quantity": 1,
+          "subtotal": 130
+        },
+        {
+          "price": 130,
+          "product_id": "-OL4TAl4nTeFWQw7Sav9",
+          "product_name": "Big Pork Siomai",
+          "quantity": 1,
+          "subtotal": 130
+        },
+        {
+          "price": 130,
+          "product_id": "-OL4TPeH-ITPRoRxbx46",
+          "product_name": "Big Beef Siomai",
+          "quantity": 1,
+          "subtotal": 130
+        },
+        {
+          "price": 130,
+          "product_id": "-OL4TPeH-ITPRoRxbx46",
+          "product_name": "Big Beef Siomai",
+          "quantity": 1,
+          "subtotal": 130
+        },
+        {
+          "price": 130,
+          "product_id": "-OL4TLurQEtbglXvjF18",
+          "product_name": "Big Chicken Siomai",
+          "quantity": 1,
+          "subtotal": 130
+        },
+        {
+          "price": 130,
+          "product_id": "-OL4TLurQEtbglXvjF18",
+          "product_name": "Big Chicken Siomai",
+          "quantity": 1,
+          "subtotal": 130
+        },
+        {
+          "price": 130,
+          "product_id": "-OL4TLurQEtbglXvjF18",
+          "product_name": "Big Chicken Siomai",
+          "quantity": 1,
+          "subtotal": 130
+        },
+        {
+          "price": 130,
+          "product_id": "-OL4TLurQEtbglXvjF18",
+          "product_name": "Big Chicken Siomai",
+          "quantity": 1,
+          "subtotal": 130
+        },
+        {
+          "price": 130,
+          "product_id": "-OL4TLurQEtbglXvjF18",
+          "product_name": "Big Chicken Siomai",
+          "quantity": 1,
+          "subtotal": 130
+        }
+      ],
+      "order_date": "2025-03-14",
+      "status": "pending",
+      "total_amount": 1950
+    }
+  },
+  "posts": {
+    "-OKooPmN9IxByxEilgtC": {
+      "content": "Im all well",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ces-project-f8b4e.firebasestorage.app/o/posts%2FmBoi8WzZZMeLGSKmfjNzjRpZbr42%2F1741421649609_1000099840.webp?alt=media&token=003e4c8b-3aea-4373-a763-cbf6faafc520",
+      "likes": 0,
+      "timestamp": 1741421653193,
+      "user": {
+        "initials": "A",
+        "name": "Anonymous User",
+        "uid": "mBoi8WzZZMeLGSKmfjNzjRpZbr42"
+      }
+    },
+    "-OKotaMfAwZbDkdBcJ3r": {
+      "content": "Ay",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ces-project-f8b4e.firebasestorage.app/o/posts%2FOPFwsWioCPd9jm8059SoknozJgF2%2F1741422999141_1000005838.webp?alt=media&token=9fa6b0f1-a127-452d-9f4f-e70d035b5b3f",
+      "likes": 0,
+      "timestamp": 1741423011381,
+      "user": {
+        "initials": "M",
+        "name": "Master Dee",
+        "uid": "OPFwsWioCPd9jm8059SoknozJgF2"
+      }
+    },
+    "-OKoz6R8xImeXs7FG5WU": {
+      "content": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ces-project-f8b4e.firebasestorage.app/o/posts%2FYRLqd0OJIsbH8kCaKX4aqlgZxO83%2F1741424454321_1000005814.png?alt=media&token=6aa0a5db-54b2-476a-87e7-4f6cf95094ff",
+      "likes": 0,
+      "timestamp": 1741424457576,
+      "user": {
+        "initials": "A",
+        "name": "Anonymous User",
+        "uid": "YRLqd0OJIsbH8kCaKX4aqlgZxO83"
+      }
+    },
+    "-OKpOqRczMSUGsvMdbJg": {
+      "content": "New member",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ces-project-f8b4e.firebasestorage.app/o/posts%2Fu443tzabfvPRhnFq5SXbh5mBKGu2%2F1741431462171_1000005863.jpg?alt=media&token=986c9aaa-3213-4b01-afc8-9475ebcfd94a",
+      "likes": 0,
+      "timestamp": 1741431465818,
+      "user": {
+        "initials": "A",
+        "name": "Anonymous User",
+        "uid": "u443tzabfvPRhnFq5SXbh5mBKGu2"
+      }
+    },
+    "-OKpcG_XmOL-goHZyH7r": {
+      "content": "Face the wall",
+      "likes": 0,
+      "timestamp": "2025-03-08T12:00:46.722Z",
+      "user": {
+        "initials": "A",
+        "name": "Anonymous User",
+        "uid": "pwyOxGvSdGaxDAlmPh8WOL92LAE3"
+      },
+      "video": "https://firebasestorage.googleapis.com/v0/b/ces-project-f8b4e.firebasestorage.app/o/videos%2Fsocial%2FpwyOxGvSdGaxDAlmPh8WOL92LAE3%2F1741435242023_1000005809.mp4?alt=media&token=e7c84244-6ef7-4139-8eec-8d28e5c62a94"
+    },
+    "-OKppcswPF25GIkUSkKb": {
+      "content": "The Legends",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ces-project-f8b4e.firebasestorage.app/o/posts%2F79hS5EuUJLVdJUD6sWkl0G5flaI3%2F1741438748669_VID_20250308_205813.mp4?alt=media&token=d62acf26-2dac-42f8-8a55-84817df1a08b",
+      "likes": 0,
+      "timestamp": 1741438750335,
+      "user": {
+        "initials": "A",
+        "name": "Anonymous User",
+        "uid": "79hS5EuUJLVdJUD6sWkl0G5flaI3"
+      }
+    },
+    "-OKq4M7v9iiiDXRmYLeY": {
+      "content": "Hello world.",
+      "image": "",
+      "likes": 0,
+      "timestamp": 1741442871935,
+      "user": {
+        "initials": "A",
+        "name": "Anonymous User",
+        "uid": "CaWqCb1LVsbCfZ9UTES8EqYGMUx2"
+      }
+    },
+    "-OKqDZbE_T27X81NAJ3c": {
+      "content": "Check check check",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ces-project-f8b4e.firebasestorage.app/o/posts%2FHwU5nXBtYfafVNCkvoSkdoWFX3r2%2F1741445261226_IMG_2612.dng?alt=media&token=dab6df4f-86da-46ab-b7e1-4655a99c2257",
+      "likes": 0,
+      "timestamp": 1741445286422,
+      "user": {
+        "initials": "A",
+        "name": "Anonymous User",
+        "uid": "HwU5nXBtYfafVNCkvoSkdoWFX3r2"
+      }
+    },
+    "-OKrGaLXatrqTMIN0PnS": {
+      "content": "Team Magnetar Prestige circle",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ces-project-f8b4e.firebasestorage.app/o/posts%2F79hS5EuUJLVdJUD6sWkl0G5flaI3%2F1741462851443_Prestige%20Circle%20-%20GHEN%20(can%20edit).png?alt=media&token=f9f12f40-97b3-4067-8922-f0ed1004622c",
+      "likes": 0,
+      "timestamp": 1741462857179,
+      "user": {
+        "initials": "A",
+        "name": "Anonymous User",
+        "uid": "79hS5EuUJLVdJUD6sWkl0G5flaI3"
+      }
+    },
+    "-OKrHA-vCBO4kWfjb_o7": {
+      "content": "Team Magnetar Lifestyle Incentives",
+      "likes": 0,
+      "timestamp": "2025-03-08T19:43:25.167Z",
+      "user": {
+        "initials": "A",
+        "name": "Anonymous User",
+        "uid": "79hS5EuUJLVdJUD6sWkl0G5flaI3"
+      },
+      "video": "https://firebasestorage.googleapis.com/v0/b/ces-project-f8b4e.firebasestorage.app/o/videos%2Fsocial%2F79hS5EuUJLVdJUD6sWkl0G5flaI3%2F1741463003991_VID_20250309_034145.mp4?alt=media&token=0d69a0cf-2111-4a05-8355-dc0d749151e1"
+    },
+    "-OKsFIGJ0BcUjggzGN8C": {
+      "content": "Hello",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ces-project-f8b4e.firebasestorage.app/o/posts%2FThsdiMsAg5WKghxbwxxMsbkBdJC3%2F1741479291699_FB_IMG_1741047200724.jpg?alt=media&token=3303f0d9-10e0-446a-bfb4-3b741b4130f6",
+      "likes": 0,
+      "timestamp": 1741479294116,
+      "user": {
+        "initials": "A",
+        "name": "Anonymous User",
+        "uid": "ThsdiMsAg5WKghxbwxxMsbkBdJC3"
+      }
+    },
+    "-OKzUqihq7PgmhxAR5N1": {
+      "content": "yo",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ces-project-f8b4e.firebasestorage.app/o/posts%2FanWOaLz6gSewROFhOXEHO3SCMi82%2F1741600808194_1000005757.jpg?alt=media&token=acd95b24-239d-478d-bfcf-e8de46e10b80",
+      "likes": 0,
+      "timestamp": 1741600812012,
+      "userDisplayName": "Anonymous User",
+      "userId": "anWOaLz6gSewROFhOXEHO3SCMi82",
+      "userInitials": "A"
+    },
+    "-OL2fjM-14qyPtn4Oemk": {
+      "content": "Hello",
+      "likes": 0,
+      "timestamp": "2025-03-11T05:30:35.532Z",
+      "user": {
+        "initials": "A",
+        "name": "Anonymous User",
+        "uid": "KtlCH7eWEyNa989VwB9CXvozs3s1"
+      },
+      "video": "https://firebasestorage.googleapis.com/v0/b/ces-project-f8b4e.firebasestorage.app/o/videos%2Fsocial%2FKtlCH7eWEyNa989VwB9CXvozs3s1%2F1741671032358_1000006018.mp4?alt=media&token=49926771-e7bc-482e-877c-ca1681951b62"
+    },
+    "-OL3-I06kwn3TwpEk78k": {
+      "content": "Tesy",
+      "likes": 0,
+      "timestamp": "2025-03-11T07:00:25.209Z",
+      "user": {
+        "initials": "A",
+        "name": "Anonymous User",
+        "uid": "bimQhuPuxSNoYmTo1p2WtjhXri72"
+      },
+      "video": "https://firebasestorage.googleapis.com/v0/b/ces-project-f8b4e.firebasestorage.app/o/videos%2Fsocial%2FbimQhuPuxSNoYmTo1p2WtjhXri72%2F1741676419934_1000097211.mp4?alt=media&token=4d7f85f4-f652-4254-bb9f-df9b8ef6255f"
+    },
+    "-OL7smlMztL9eqRko_Y-": {
+      "content": "Twst",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ces-project-f8b4e.firebasestorage.app/o/posts%2FRdWoVzsJM7RRZgIZJYP4ktuH9y72%2F1741758342442_1000100727.jpg?alt=media&token=2ffc0347-a477-4cc6-9523-2c2ddb468f83",
+      "likes": 0,
+      "timestamp": 1741758344328,
+      "userDisplayName": "Master Dee",
+      "userId": "RdWoVzsJM7RRZgIZJYP4ktuH9y72",
+      "userInitials": "M"
+    },
+    "-OL8d1rORLEBOA4xG4ZS": {
+      "content": "Twins",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ces-project-f8b4e.firebasestorage.app/o/posts%2FrtAklqVTnnVvELFtx5Li87ufv6m1%2F1741770987197_BeautyPlus_20230705012238359_save.jpg?alt=media&token=729d601a-bf0d-4abf-bf63-438d44d81f5b",
+      "likes": 0,
+      "timestamp": 1741770993167,
+      "userDisplayName": "Anonymous User",
+      "userId": "rtAklqVTnnVvELFtx5Li87ufv6m1",
+      "userInitials": "A"
+    },
+    "-OL8dEIOKz-3eDHRhaqr": {
+      "content": "Team Magnetar Caravan to baler",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ces-project-f8b4e.firebasestorage.app/o/posts%2FrtAklqVTnnVvELFtx5Li87ufv6m1%2F1741771036545_team%20magnetar%20(2).png?alt=media&token=01cac63e-e28c-41f3-98d9-0f780d84d724",
+      "likes": 0,
+      "timestamp": 1741771044106,
+      "userDisplayName": "Anonymous User",
+      "userId": "rtAklqVTnnVvELFtx5Li87ufv6m1",
+      "userInitials": "A"
+    },
+    "-OL8dWFJdhUopN80_ZRB": {
+      "content": "Sharpen by Time Molded by Experience",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ces-project-f8b4e.firebasestorage.app/o/posts%2FrtAklqVTnnVvELFtx5Li87ufv6m1%2F1741771112010_BeautyPlus_20250219154101560_save.jpg?alt=media&token=a2eb9ea0-10d0-4a87-99f2-05891b3c4cb1",
+      "likes": 0,
+      "timestamp": 1741771117632,
+      "userDisplayName": "Anonymous User",
+      "userId": "rtAklqVTnnVvELFtx5Li87ufv6m1",
+      "userInitials": "A"
+    }
+  },
+  "products": {
+    "-OL4TAl4nTeFWQw7Sav9": {
+      "cost_price": 100,
+      "product_name": "Big Pork Siomai",
+      "quantity": -10,
+      "selling_price": 130
+    },
+    "-OL4TLurQEtbglXvjF18": {
+      "cost_price": 100,
+      "product_name": "Big Chicken Siomai",
+      "quantity": -5,
+      "selling_price": 130
+    },
+    "-OL4TPeH-ITPRoRxbx46": {
+      "cost_price": 100,
+      "product_name": "Big Beef Siomai",
+      "quantity": -4,
+      "selling_price": 130
+    },
+    "-OL4TUn9OuGees9oYo8L": {
+      "cost_price": 100,
+      "product_name": "Big Siomai Dynamite ",
+      "quantity": -4,
+      "selling_price": 130
+    },
+    "-OL4TZqFPmXD8AntpJ0N": {
+      "cost_price": 50,
+      "product_name": "Small Pork Siomai ",
+      "quantity": -8,
+      "selling_price": 65
+    },
+    "-OL4T_hZ1M-2f_81lAnm": {
+      "packs_in_stock": 0,
+      "price_per_pack": 130,
+      "product_name": "Big Pork Siomai"
+    },
+    "-OL4T_hdDHEwZOXx89p4": {
+      "packs_in_stock": 0,
+      "price_per_pack": 130,
+      "product_name": "Big Chicken Siomai"
+    },
+    "-OL4T_hf-5Ly4iBlDE9U": {
+      "packs_in_stock": 0,
+      "price_per_pack": 130,
+      "product_name": "Big Beef Siomai"
+    },
+    "-OL4T_hg91db8aTSS2aj": {
+      "packs_in_stock": 0,
+      "price_per_pack": 130,
+      "product_name": "Big Dynamite Siomai"
+    },
+    "-OL4T_hhANUCP5RrzFqg": {
+      "packs_in_stock": 0,
+      "price_per_pack": 65,
+      "product_name": "Small Pork Siomai"
+    },
+    "-OL4VDhltbwoqiz-OjuP": {
+      "cost_price": 0,
+      "product_name": "Big Pork Siomai",
+      "quantity": 0,
+      "selling_price": 130
+    },
+    "-OL4VDhrj1StFmNKnf77": {
+      "cost_price": 0,
+      "product_name": "Big Chicken Siomai",
+      "quantity": 0,
+      "selling_price": 130
+    },
+    "-OL4VDhuMfl0baYkIqL9": {
+      "cost_price": 0,
+      "product_name": "Big Beef Siomai",
+      "quantity": 0,
+      "selling_price": 130
+    },
+    "-OL4VDhv6KVEBL8krE8N": {
+      "cost_price": 0,
+      "product_name": "Big Dynamite Siomai",
+      "quantity": -4,
+      "selling_price": 130
+    },
+    "-OL4VDhxLp3zIuzDS4PL": {
+      "cost_price": 0,
+      "product_name": "Small Pork Siomai",
+      "quantity": -2,
+      "selling_price": 65
+    },
+    "-OL4VF1VcvjeRfsC_j9b": {
+      "cost_price": 0,
+      "product_name": "Big Pork Siomai",
+      "quantity": 0,
+      "selling_price": 130
+    },
+    "-OL4VF1ZWEK5TwNkAGgs": {
+      "cost_price": 0,
+      "product_name": "Big Chicken Siomai",
+      "quantity": 0,
+      "selling_price": 130
+    },
+    "-OL4VF1_-oJxfQF4Fn4n": {
+      "cost_price": 0,
+      "product_name": "Big Beef Siomai",
+      "quantity": 0,
+      "selling_price": 130
+    },
+    "-OL4VF1bqjKPN9MhqcEG": {
+      "cost_price": 0,
+      "product_name": "Big Dynamite Siomai",
+      "quantity": 0,
+      "selling_price": 130
+    },
+    "-OL4VF1cfMN49rJFuwSH": {
+      "cost_price": 0,
+      "product_name": "Small Pork Siomai",
+      "quantity": 0,
+      "selling_price": 65
+    },
+    "-OL4gwKWo0_L639ZfhDz": {
+      "cost_price": 0,
+      "product_name": "Big Pork Siomai",
+      "quantity": 0,
+      "selling_price": 130
+    },
+    "-OL4gwKZGURx69KLDVtP": {
+      "cost_price": 0,
+      "product_name": "Big Chicken Siomai",
+      "quantity": 0,
+      "selling_price": 130
+    },
+    "-OL4gwKaJbcnJKnkWzLY": {
+      "cost_price": 0,
+      "product_name": "Big Beef Siomai",
+      "quantity": 0,
+      "selling_price": 130
+    },
+    "-OL4gwKbUo_AsENwHimO": {
+      "cost_price": 0,
+      "product_name": "Big Dynamite Siomai",
+      "quantity": 0,
+      "selling_price": 130
+    },
+    "-OL4gwKc1i6oQ77cEW-P": {
+      "cost_price": 0,
+      "product_name": "Small Pork Siomai",
+      "quantity": 0,
+      "selling_price": 65
+    },
+    "-OL4h1ndOORpyT9Hj-Ya": {
+      "cost_price": 0,
+      "product_name": "Big Pork Siomai",
+      "quantity": 0,
+      "selling_price": 130
+    },
+    "-OL4h1ne_d6uRMrqKfQt": {
+      "cost_price": 0,
+      "product_name": "Big Chicken Siomai",
+      "quantity": 0,
+      "selling_price": 130
+    },
+    "-OL4h1nfTHDoQKUhUNrr": {
+      "cost_price": 0,
+      "product_name": "Big Beef Siomai",
+      "quantity": 0,
+      "selling_price": 130
+    },
+    "-OL4h1ng6-ddMiPB-EIB": {
+      "cost_price": 0,
+      "product_name": "Big Dynamite Siomai",
+      "quantity": 0,
+      "selling_price": 130
+    },
+    "-OL4h1nh1e4DsKlek6jw": {
+      "cost_price": 0,
+      "product_name": "Small Pork Siomai",
+      "quantity": 0,
+      "selling_price": 65
+    },
+    "-OLEixY4I9DAup7daAk-": {
+      "cost_price": 130,
+      "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"h-5 w-5 text-gray-500\" viewBox=\"0 0 20 20\" fill=\"currentColor\"><path fill-rule=\"evenodd\" d=\"M3 4a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zm0 4a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zm0 4a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zm0 4a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z\" clip-rule=\"evenodd\" /></svg>",
+      "product_name": "SIOMAI ",
+      "quantity": 20,
+      "selling_price": 130
+    }
+  },
+  "remittances": {
+    "-OL4TvaqfBN37r6PDC3z": {
+      "agent_id": "001",
+      "remittance_date": "2025-03-11T13:53:53.125Z",
+      "total_remitted": 1300
+    }
+  },
+  "sales": {
+    "-OL4TrXnOHi4NrPB4Pka": {
+      "agent_id": "001",
+      "product_id": "001",
+      "quantity_sold": 10,
+      "sale_date": "2025-03-11T13:53:36.482Z",
+      "selling_price": 130
+    }
+  },
+  "transactions": {
+    "-OKvoaOaW0jtZdcLwqhB": {
+      "amount": 5000,
+      "description": "Cash in via Coins.ph",
+      "method": "Coins.ph",
+      "status": "completed",
+      "timestamp": 1741539141278,
+      "type": "cash_in",
+      "userId": "nmlvhIjGbIOUDrDFY2WGpz0SvOI2"
+    }
+  },
+  "users": {
+    "0IJW7iV1nmQEyFXVQdY7My0Ohlv1": {
+      "appName": "magnetar",
+      "bio": "",
+      "createdAt": "2025-03-12T02:14:20.128Z",
+      "lastLogin": "2025-03-12T02:14:20.128Z",
+      "lastUpdated": "2025-03-12T02:14:20.128Z",
+      "location": "",
+      "name": "Guest",
+      "phone": "",
+      "photoURL": "",
+      "profileCompleted": false,
+      "socialLinks": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "twitter": "",
+        "whatsapp": ""
+      },
+      "walletBalance": 0
+    },
+    "0bLxHRGg85UgtGWfWhvlm4Nx8s42": {
+      "createdAt": "2025-03-10T09:44:36.326Z",
+      "isAnonymous": true,
+      "lastLogin": "2025-03-10T09:44:36.326Z",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "balance": 0,
+        "currency": "PHP"
+      }
+    },
+    "1siYznbbasOb7L67zQfv3puiMqR2": {
+      "email": "1kiergggodeeaitek@gmail.com",
+      "role": "agent"
+    },
+    "35UWvpqVdAP8ddSKQbdbPGFkL5D2": {
+      "createdAt": "2025-03-10T18:57:17.929Z",
+      "isAnonymous": true,
+      "lastLogin": "2025-03-10T18:57:17.929Z",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "balance": 0,
+        "currency": "PHP"
+      }
+    },
+    "3ooeDlnLGEZaHppSa2wtbOv0JQs1": {
+      "appName": "magnetar",
+      "userType": "anonymous"
+    },
+    "40xyUWgS3DhistTMEZCCT9sE6NG3": {
+      "email": "a2525dmin@aitekchat.com",
+      "role": "agent"
+    },
+    "422PoM9kt9TR3B4q6wqPc2HhhyG3": {
+      "appName": "magnetar",
+      "userType": "anonymous"
+    },
+    "4TsdnOAZi2VUlcCeTwQKxJo5v363": {
+      "displayName": "New User",
+      "earnings": {
+        "monthly": 0,
+        "total": 0,
+        "weekly": 0
+      },
+      "personaTokens": {
+        "lastRefill": "2025-03-11T05:13:03.372Z",
+        "remaining": 1000,
+        "total": 1000,
+        "used": 0
+      },
+      "rank": "Beginner",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "currency": "PHP"
+      }
+    },
+    "4taBElhsahX1n3yIWYS4U7MWj1s2": {
+      "appName": "magnetar",
+      "createdAt": "2025-03-09T16:24:10.474Z",
+      "displayName": "New User",
+      "earnings": {
+        "monthly": 0,
+        "total": 0,
+        "weekly": 0
+      },
+      "email": "",
+      "joinDate": "2025-03-09",
+      "personaTokens": {
+        "lastRefill": "2025-03-09T16:24:10.474Z",
+        "remaining": 1000,
+        "total": 1000,
+        "used": 0
+      },
+      "photoURL": "",
+      "rank": "Bronze",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "userType": "anonymous",
+      "wallet": {
+        "balance": 1000,
+        "currency": "PHP"
+      }
+    },
+    "5ORIsMPyUReoXRWoSB58sf0wNtD3": {
+      "appName": "magnetar",
+      "userType": "anonymous"
+    },
+    "5cBR9pKL1VNILo4MHLqdwiYkDZ92": {
+      "appName": "magnetar",
+      "bio": "",
+      "createdAt": "2025-03-12T04:14:17.799Z",
+      "lastLogin": "2025-03-12T04:14:17.799Z",
+      "lastUpdated": "2025-03-12T04:14:17.799Z",
+      "location": "",
+      "name": "Guest",
+      "notificationCounts": {
+        "system": {
+          "unread": 1
+        }
+      },
+      "phone": "",
+      "photoURL": "",
+      "profileCompleted": false,
+      "socialLinks": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "twitter": "",
+        "whatsapp": ""
+      },
+      "walletBalance": 0
+    },
+    "5kfOKBTNiNgDXQfXA187dkp0dGF3": {
+      "appName": "magnetar",
+      "userType": "anonymous"
+    },
+    "5riE5iVjmmSAere3qbSfGkmWdv33": {
+      "email": "tegtyytst@mail.com",
+      "role": "agent"
+    },
+    "6H10lSxWPaduG2Gtn2dBsOZpoho2": {
+      "appName": "magnetar",
+      "userType": "anonymous"
+    },
+    "6klXHJImvDTmXkhXmjOpDZDem6F3": {
+      "appName": "magnetar",
+      "userType": "anonymous"
+    },
+    "79hS5EuUJLVdJUD6sWkl0G5flaI3": {
+      "appName": "magnetar",
+      "userType": "anonymous"
+    },
+    "8Zp0IZxlouetmAZeDkiXRnfVS5o1": {
+      "appName": "magnetar",
+      "bio": "",
+      "createdAt": "2025-03-12T02:30:55.524Z",
+      "lastLogin": "2025-03-12T02:30:55.524Z",
+      "lastUpdated": "2025-03-12T02:30:55.524Z",
+      "location": "",
+      "name": "Guest",
+      "notificationCounts": {
+        "system": {
+          "unread": 1
+        }
+      },
+      "phone": "",
+      "photoURL": "",
+      "profileCompleted": false,
+      "socialLinks": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "twitter": "",
+        "whatsapp": ""
+      },
+      "walletBalance": 0
+    },
+    "8nobeRfqZvf4OVn2HOUngMtdx7t1": {
+      "displayName": "New User",
+      "earnings": {
+        "monthly": 0,
+        "total": 0,
+        "weekly": 0
+      },
+      "rank": "Beginner",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "currency": "PHP"
+      }
+    },
+    "8sm5fwE2hAU7qdQ35ZXk6sMPd1G3": {
+      "createdAt": "2025-03-11T00:20:55.190Z",
+      "isAnonymous": true,
+      "lastLogin": "2025-03-11T00:20:55.190Z",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "balance": 0,
+        "currency": "PHP"
+      }
+    },
+    "A81qHU0KXsUCpsEgXH3eUzcZxEj1": {
+      "appName": "magnetar",
+      "bio": "",
+      "createdAt": "2025-03-12T03:25:49.408Z",
+      "lastLogin": "2025-03-12T03:25:49.408Z",
+      "lastUpdated": "2025-03-12T03:25:49.408Z",
+      "location": "",
+      "name": "Guest",
+      "notificationCounts": {
+        "system": {
+          "unread": 1
+        }
+      },
+      "phone": "",
+      "photoURL": "",
+      "profileCompleted": false,
+      "socialLinks": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "twitter": "",
+        "whatsapp": ""
+      },
+      "walletBalance": 0
+    },
+    "B3kKNDmScNUvBKQxfkQAxUiQgSk2": {
+      "appName": "magnetar",
+      "userType": "anonymous"
+    },
+    "BAztJUqlZpes3T6DmPs0BB2IdzN2": {
+      "appName": "magnetar",
+      "personaTokens": {
+        "lastRefill": "2025-03-12T08:28:18.336Z",
+        "remaining": 1000,
+        "total": 1000,
+        "used": 0
+      },
+      "userType": "anonymous"
+    },
+    "BwKvgroDrKOtHZdqYvsEBKB4QnE3": {
+      "appName": "magnetar"
+    },
+    "BwuPKkK7s1ghf3TXeI5RzwytY5y1": {
+      "appName": "magnetar",
+      "userType": "anonymous"
+    },
+    "BxDsEoN9RJdTcNBo9Iud094k29f1": {
+      "displayName": "New User",
+      "earnings": {
+        "monthly": 0,
+        "total": 0,
+        "weekly": 0
+      },
+      "rank": "Beginner",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "currency": "PHP"
+      }
+    },
+    "C2FxMzIoZBZp03tOhJJ5O0Oc2X23": {
+      "appName": "magnetar",
+      "bio": "",
+      "createdAt": "2025-03-12T02:34:22.213Z",
+      "lastLogin": "2025-03-12T02:34:22.213Z",
+      "lastUpdated": "2025-03-12T02:34:22.213Z",
+      "location": "",
+      "name": "Guest",
+      "notificationCounts": {
+        "system": {
+          "unread": 1
+        }
+      },
+      "phone": "",
+      "photoURL": "",
+      "profileCompleted": false,
+      "socialLinks": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "twitter": "",
+        "whatsapp": ""
+      },
+      "walletBalance": 0
+    },
+    "CaWqCb1LVsbCfZ9UTES8EqYGMUx2": {
+      "appName": "magnetar"
+    },
+    "CvmTakXETjgYFZDxCgX5UTRWhFM2": {
+      "createdAt": "2025-03-11T05:28:51.396Z",
+      "isAnonymous": true,
+      "lastLogin": "2025-03-11T05:28:51.396Z",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "balance": 0,
+        "currency": "PHP"
+      }
+    },
+    "Cxn4pvZrF2OyDeKfME0MrZs6J7l2": {
+      "appName": "magnetar",
+      "userType": "anonymous"
+    },
+    "DFBFrH2VVdd8GlipfAYykzTPEdD3": {
+      "createdAt": "2025-03-10T09:37:18.486Z",
+      "isAnonymous": true,
+      "lastLogin": "2025-03-10T09:37:18.486Z",
+      "personaTokens": {
+        "lastRefill": "2025-03-10T09:38:11.945Z",
+        "remaining": 909,
+        "total": 1000,
+        "used": 91
+      },
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "balance": 0,
+        "currency": "PHP"
+      }
+    },
+    "DeSXXu5s4qWfEcboKqKoNPJLfMC3": {
+      "appName": "magnetar",
+      "bio": "",
+      "createdAt": "2025-03-12T08:54:38.747Z",
+      "lastLogin": "2025-03-12T08:54:38.747Z",
+      "lastUpdated": "2025-03-12T08:54:38.747Z",
+      "location": "",
+      "name": "Guest",
+      "notificationCounts": {
+        "system": {
+          "unread": 1
+        }
+      },
+      "phone": "",
+      "photoURL": "",
+      "profileCompleted": false,
+      "socialLinks": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "twitter": "",
+        "whatsapp": ""
+      },
+      "walletBalance": 0
+    },
+    "DsQNOxfjaAdUaSOW7OEEV2T4Uny2": {
+      "appName": "magnetar",
+      "bio": "",
+      "createdAt": "2025-03-13T14:11:58.937Z",
+      "email": "djtarrosa@gmail.com",
+      "lastLogin": "2025-03-13T14:11:58.937Z",
+      "lastUpdated": "2025-03-13T14:11:58.937Z",
+      "location": "",
+      "name": "DJ Tarrosa",
+      "notificationCounts": {
+        "system": {
+          "unread": 1
+        }
+      },
+      "phone": "09190085423",
+      "photoURL": "",
+      "profileCompleted": false,
+      "socialLinks": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "twitter": "",
+        "whatsapp": ""
+      },
+      "walletBalance": 0
+    },
+    "EHwve2VKeaNzWbP978h9UirYrtE2": {
+      "appName": "magnetar",
+      "createdAt": "2025-03-09T16:29:26.774Z",
+      "displayName": "New User",
+      "earnings": {
+        "monthly": 0,
+        "total": 0,
+        "weekly": 0
+      },
+      "email": "",
+      "joinDate": "2025-03-09",
+      "personaTokens": {
+        "lastRefill": "2025-03-09T16:29:26.774Z",
+        "remaining": 878,
+        "total": 1000,
+        "used": 122
+      },
+      "photoURL": "",
+      "rank": "Bronze",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "userType": "anonymous",
+      "wallet": {
+        "balance": 1000,
+        "currency": "PHP"
+      }
+    },
+    "EOiIDKAYtpOI8oQNdpwVbkbXv202": {
+      "createdAt": "2025-03-10T11:40:52.679Z",
+      "isAnonymous": true,
+      "lastLogin": "2025-03-10T11:40:52.679Z",
+      "personaTokens": {
+        "lastRefill": "2025-03-10T11:40:59.548Z",
+        "remaining": 1000,
+        "total": 1000,
+        "used": 0
+      },
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "balance": 0,
+        "currency": "PHP"
+      }
+    },
+    "F0TW2OerGsbJ9eIbPc8aD5H7NJl1": {
+      "appName": "magnetar",
+      "bio": "",
+      "createdAt": "2025-03-12T04:28:03.138Z",
+      "lastLogin": "2025-03-12T04:28:03.138Z",
+      "lastUpdated": "2025-03-12T04:28:03.138Z",
+      "location": "",
+      "name": "Guest",
+      "notificationCounts": {
+        "system": {
+          "unread": 1
+        }
+      },
+      "personaTokens": {
+        "lastRefill": "2025-03-12T05:05:51.586Z",
+        "remaining": 732,
+        "total": 1000,
+        "used": 268
+      },
+      "phone": "",
+      "photoURL": "",
+      "profileCompleted": false,
+      "socialLinks": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "twitter": "",
+        "whatsapp": ""
+      },
+      "walletBalance": 0
+    },
+    "F0uquAaLVFVIluIu8oXVkAtmSk73": {
+      "appName": "magnetar",
+      "userType": "anonymous"
+    },
+    "FlxTg9cPNXaiGMZQ8amNZeRezN43": {
+      "displayName": "New User",
+      "earnings": {
+        "monthly": 0,
+        "total": 0,
+        "weekly": 0
+      },
+      "rank": "Beginner",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "currency": "PHP"
+      }
+    },
+    "GUwIUM0TPveYnhNtchFbmqlLHuT2": {
+      "appName": "magnetar",
+      "bio": "",
+      "createdAt": "2025-03-12T09:22:24.651Z",
+      "lastLogin": "2025-03-12T09:22:24.651Z",
+      "lastUpdated": "2025-03-12T09:22:24.651Z",
+      "location": "",
+      "name": "Guest",
+      "notificationCounts": {
+        "system": {
+          "unread": 1
+        }
+      },
+      "personaTokens": {
+        "lastRefill": "2025-03-12T09:24:41.770Z",
+        "remaining": 0,
+        "total": 1000,
+        "used": 1216
+      },
+      "phone": "",
+      "photoURL": "",
+      "profileCompleted": false,
+      "socialLinks": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "twitter": "",
+        "whatsapp": ""
+      },
+      "walletBalance": 0
+    },
+    "Hk9wEkQzOMcz5NZFAlHdxl17Kt22": {
+      "createdAt": "2025-03-09T18:21:43.831Z",
+      "isAnonymous": true,
+      "lastLogin": "2025-03-09T18:21:43.831Z",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "balance": 0,
+        "currency": "PHP"
+      }
+    },
+    "HrfhEpuumhg6oVt0gp7a6QHnOlH2": {
+      "displayName": "New User",
+      "earnings": {
+        "monthly": 0,
+        "total": 0,
+        "weekly": 0
+      },
+      "rank": "Beginner",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "currency": "PHP"
+      }
+    },
+    "IDecyy58J3PlwQDUv6IAFGnEUW22": {
+      "displayName": "New User",
+      "earnings": {
+        "monthly": 0,
+        "total": 0,
+        "weekly": 0
+      },
+      "personaTokens": {
+        "lastRefill": "2025-03-11T05:07:53.618Z",
+        "remaining": 1000,
+        "total": 1000,
+        "used": 0
+      },
+      "rank": "Beginner",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "currency": "PHP"
+      }
+    },
+    "IRw0npjROugCrWwcFnUsUnlgITs1": {
+      "appName": "magnetar",
+      "userType": "anonymous"
+    },
+    "J9Q3k69vvUQI3mXoZ0kKg3Ii0ab2": {
+      "appName": "magnetar",
+      "bio": "",
+      "createdAt": "2025-03-12T07:16:52.591Z",
+      "lastLogin": "2025-03-12T07:16:52.591Z",
+      "lastUpdated": "2025-03-12T07:16:52.591Z",
+      "location": "",
+      "name": "Guest",
+      "notificationCounts": {
+        "system": {
+          "unread": 1
+        }
+      },
+      "personaTokens": {
+        "lastRefill": "2025-03-12T07:17:07.579Z",
+        "remaining": 189,
+        "total": 1000,
+        "used": 811
+      },
+      "phone": "",
+      "photoURL": "",
+      "profileCompleted": false,
+      "socialLinks": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "twitter": "",
+        "whatsapp": ""
+      },
+      "walletBalance": 0
+    },
+    "KF8ifIYMbCPJiIx8Rc6qYiPn4Xt1": {
+      "appName": "magnetar",
+      "userType": "anonymous"
+    },
+    "KtlCH7eWEyNa989VwB9CXvozs3s1": {
+      "createdAt": "2025-03-11T05:29:45.366Z",
+      "isAnonymous": true,
+      "lastLogin": "2025-03-11T05:29:45.366Z",
+      "personaTokens": {
+        "lastRefill": "2025-03-11T05:30:00.360Z",
+        "remaining": 1000,
+        "total": 1000,
+        "used": 0
+      },
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "balance": 0,
+        "currency": "PHP"
+      }
+    },
+    "L6YR7rAOSYadESk4HPpWZHU9xCn2": {
+      "appName": "magnetar",
+      "userType": "anonymous"
+    },
+    "LDVXYTMsyXM4cI0ANaKsbEyb9xF3": {
+      "displayName": "New User",
+      "earnings": {
+        "monthly": 0,
+        "total": 0,
+        "weekly": 0
+      },
+      "rank": "Beginner",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "currency": "PHP"
+      }
+    },
+    "MatqUm3PimgfrNpfrkDdOzIAU162": {
+      "appName": "magnetar",
+      "userType": "anonymous"
+    },
+    "Mb3fFdlLweM6KJ35lptio8UnrxU2": {
+      "displayName": "New User",
+      "earnings": {
+        "monthly": 0,
+        "total": 0,
+        "weekly": 0
+      },
+      "rank": "Beginner",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "currency": "PHP"
+      }
+    },
+    "MnzsbnDj5xcJjTCb9u9fOpexHMm2": {
+      "displayName": "New User",
+      "earnings": {
+        "monthly": 0,
+        "total": 0,
+        "weekly": 0
+      },
+      "rank": "Beginner",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "currency": "PHP"
+      }
+    },
+    "NHL0Qx36vRTyGV36rQt44Y4W0JC3": {
+      "email": "christianmalones12@gmail.com",
+      "role": "agent"
+    },
+    "NjKCATbbDGMXeRQMeT09K0Yxu9I2": {
+      "appName": "magnetar",
+      "bio": "",
+      "createdAt": "2025-03-12T02:16:31.545Z",
+      "lastLogin": "2025-03-12T02:16:31.545Z",
+      "lastUpdated": "2025-03-12T02:16:31.545Z",
+      "location": "",
+      "name": "Guest",
+      "phone": "",
+      "photoURL": "",
+      "profileCompleted": false,
+      "socialLinks": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "twitter": "",
+        "whatsapp": ""
+      },
+      "walletBalance": 0
+    },
+    "NkqTbdHdedOpjgxgFhwU6lTHaf22": {
+      "createdAt": "2025-03-09T18:18:51.364Z",
+      "isAnonymous": true,
+      "lastLogin": "2025-03-09T18:18:51.364Z",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "balance": 0,
+        "currency": "PHP"
+      }
+    },
+    "O28iZ0FbuLTwAH7ETYMtOX7NrGy1": {
+      "createdAt": "2025-03-11T05:28:58.976Z",
+      "isAnonymous": true,
+      "lastLogin": "2025-03-11T05:28:58.977Z",
+      "personaTokens": {
+        "lastRefill": "2025-03-11T08:13:28.140Z",
+        "remaining": 490,
+        "total": 1000,
+        "used": 510
+      },
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "balance": 0,
+        "currency": "PHP"
+      }
+    },
+    "ODF2eUdIQhYdtD6YCfelp5ksea32": {
+      "appName": "magnetar",
+      "userType": "anonymous"
+    },
+    "OPFwsWioCPd9jm8059SoknozJgF2": {
+      "appName": "magnetar"
+    },
+    "OUnUEMB00mR6gTKquNj6ITw71QL2": {
+      "appName": "magnetar",
+      "createdAt": "2025-03-09T15:48:52.735Z",
+      "displayName": "New User",
+      "earnings": {
+        "monthly": 0,
+        "total": 0,
+        "weekly": 0
+      },
+      "email": "",
+      "joinDate": "2025-03-09",
+      "personaTokens": {
+        "lastRefill": "2025-03-09T15:48:52.735Z",
+        "remaining": 1000,
+        "total": 1000,
+        "used": 0
+      },
+      "photoURL": "",
+      "rank": "Bronze",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "userType": "anonymous"
+    },
+    "PBqaKIvzYOROK7oYvQ92AisuJzq2": {
+      "appName": "magnetar",
+      "createdAt": "2025-03-09T16:22:19.509Z",
+      "displayName": "New User",
+      "earnings": {
+        "monthly": 0,
+        "total": 0,
+        "weekly": 0
+      },
+      "email": "",
+      "joinDate": "2025-03-09",
+      "personaTokens": {
+        "lastRefill": "2025-03-09T16:22:19.509Z",
+        "remaining": 716,
+        "total": 1000,
+        "used": 284
+      },
+      "photoURL": "",
+      "rank": "Bronze",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "userType": "anonymous",
+      "wallet": {
+        "balance": 1000,
+        "currency": "PHP"
+      }
+    },
+    "R6E1JEGDlcdhShJqx715ZIQZd4C3": {
+      "createdAt": "2025-03-10T09:50:02.047Z",
+      "isAnonymous": true,
+      "lastLogin": "2025-03-10T09:50:02.047Z",
+      "personaTokens": {
+        "lastRefill": "2025-03-10T09:50:07.708Z",
+        "remaining": 446,
+        "total": 1000,
+        "used": 554
+      },
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "balance": 0,
+        "currency": "PHP"
+      }
+    },
+    "RTZnID85hUaHN8dHvWmIEtsuop32": {
+      "appName": "magnetar",
+      "bio": "",
+      "createdAt": "2025-03-12T02:24:58.511Z",
+      "lastLogin": "2025-03-12T02:24:58.511Z",
+      "lastUpdated": "2025-03-12T02:25:38.474Z",
+      "location": "",
+      "name": "Guest",
+      "phone": "",
+      "photoURL": "https://firebasestorage.googleapis.com/v0/b/ces-project-f8b4e.firebasestorage.app/o/avatars%2FRTZnID85hUaHN8dHvWmIEtsuop32%2F1741746325357_1000100227.jpg?alt=media&token=c41cb344-ff0e-4890-8d2f-45a1f1a49bae",
+      "profileCompleted": false,
+      "socialLinks": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "twitter": "",
+        "whatsapp": ""
+      },
+      "walletBalance": 0
+    },
+    "RbUokpn2IgVONqkRZSGne7AV9LH3": {
+      "appName": "magnetar",
+      "createdAt": "2025-03-09T15:50:39.063Z",
+      "displayName": "New User",
+      "earnings": {
+        "monthly": 0,
+        "total": 0,
+        "weekly": 0
+      },
+      "email": "",
+      "joinDate": "2025-03-09",
+      "personaTokens": {
+        "lastRefill": "2025-03-09T15:50:39.063Z",
+        "remaining": 1000,
+        "total": 1000,
+        "used": 0
+      },
+      "photoURL": "",
+      "rank": "Bronze",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "userType": "anonymous"
+    },
+    "RdWoVzsJM7RRZgIZJYP4ktuH9y72": {
+      "displayName": "Master Dee",
+      "earnings": {
+        "monthly": 0,
+        "total": 0,
+        "weekly": 0
+      },
+      "lastLogin": "2025-03-12T05:10:16.092Z",
+      "personaTokens": {
+        "lastRefill": "2025-03-11T07:42:13.450Z",
+        "remaining": 0,
+        "total": 1000,
+        "used": 1303
+      },
+      "rank": "Beginner",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "currency": "PHP"
+      }
+    },
+    "SIvWlXG0yFgU2IFTw4xeMaKWsRk2": {
+      "displayName": "New User",
+      "earnings": {
+        "monthly": 0,
+        "total": 0,
+        "weekly": 0
+      },
+      "lastLogin": "2025-03-12T02:58:46.999Z",
+      "rank": "Beginner",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "currency": "PHP"
+      }
+    },
+    "SePYR1tiUyffBtlWqD7LtRaF6432": {
+      "createdAt": "2025-03-09T18:02:17.447Z",
+      "isAnonymous": true,
+      "lastLogin": "2025-03-09T18:02:17.447Z",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "balance": 0,
+        "currency": "PHP"
+      }
+    },
+    "TB7z5yYNkESUEdWJHb2T1IRyJSm1": {
+      "createdAt": "2025-03-09T22:46:07.857Z",
+      "isAnonymous": true,
+      "lastLogin": "2025-03-09T22:46:07.857Z",
+      "personaTokens": {
+        "lastRefill": "2025-03-09T22:46:12.377Z",
+        "remaining": 1000,
+        "total": 1000,
+        "used": 0
+      },
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "balance": 0,
+        "currency": "PHP"
+      }
+    },
+    "ThsdiMsAg5WKghxbwxxMsbkBdJC3": {
+      "appName": "magnetar",
+      "userType": "anonymous"
+    },
+    "UW9b6DyWUmZyxvcUlAKxwVe9jdu1": {
+      "appName": "magnetar",
+      "bio": "",
+      "createdAt": "2025-03-12T02:36:08.140Z",
+      "lastLogin": "2025-03-12T02:36:08.140Z",
+      "lastUpdated": "2025-03-12T02:36:08.140Z",
+      "location": "",
+      "name": "Guest",
+      "notificationCounts": {
+        "system": {
+          "unread": 1
+        }
+      },
+      "phone": "",
+      "photoURL": "",
+      "profileCompleted": false,
+      "socialLinks": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "twitter": "",
+        "whatsapp": ""
+      },
+      "walletBalance": 0
+    },
+    "VJO6GDLz9SYZx0EEIKtjiK2826r2": {
+      "appName": "magnetar",
+      "userType": "anonymous"
+    },
+    "VXCsDV9QRIWU5UhYlPWgJ3LhXUp1": {
+      "appName": "magnetar",
+      "userType": "anonymous"
+    },
+    "W474mNoHHjgYcrTlXyTz1yPc9uh1": {
+      "appName": "magnetar",
+      "bio": "",
+      "createdAt": "2025-03-12T04:30:03.125Z",
+      "lastLogin": "2025-03-12T04:30:03.125Z",
+      "lastUpdated": "2025-03-12T04:30:03.125Z",
+      "location": "",
+      "name": "Guest",
+      "notificationCounts": {
+        "system": {
+          "unread": 1
+        }
+      },
+      "personaTokens": {
+        "lastRefill": "2025-03-12T04:30:17.058Z",
+        "remaining": 1000,
+        "total": 1000,
+        "used": 0
+      },
+      "phone": "",
+      "photoURL": "",
+      "profileCompleted": false,
+      "socialLinks": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "twitter": "",
+        "whatsapp": ""
+      },
+      "walletBalance": 0
+    },
+    "WxQgl6gfWUZjKpUhiYKu7TpW9sH2": {
+      "appName": "magnetar",
+      "createdAt": "2025-03-09T16:35:56.037Z",
+      "displayName": "New User",
+      "earnings": {
+        "monthly": 0,
+        "total": 0,
+        "weekly": 0
+      },
+      "email": "",
+      "joinDate": "2025-03-09",
+      "personaTokens": {
+        "lastRefill": "2025-03-09T16:35:56.037Z",
+        "remaining": 578,
+        "total": 1000,
+        "used": 422
+      },
+      "photoURL": "",
+      "rank": "Bronze",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "userType": "anonymous",
+      "wallet": {
+        "balance": 1000,
+        "currency": "PHP"
+      }
+    },
+    "XZJzecr5GsZM8Ze5RDrS4aE2n9q1": {
+      "displayName": "New User",
+      "earnings": {
+        "monthly": 0,
+        "total": 0,
+        "weekly": 0
+      },
+      "rank": "Beginner",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "currency": "PHP"
+      }
+    },
+    "Y58xSyjsR0ZAdMX5aRAzVLnjcA23": {
+      "displayName": "New User",
+      "earnings": {
+        "monthly": 0,
+        "total": 0,
+        "weekly": 0
+      },
+      "rank": "Beginner",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "currency": "PHP"
+      }
+    },
+    "YBm4wURbA5Top3sWnwLngi7mPgz1": {
+      "appName": "magnetar",
+      "bio": "",
+      "createdAt": "2025-03-12T03:06:46.213Z",
+      "lastLogin": "2025-03-12T03:06:46.213Z",
+      "lastUpdated": "2025-03-12T03:06:46.213Z",
+      "location": "",
+      "name": "Guest",
+      "notificationCounts": {
+        "system": {
+          "unread": 1
+        }
+      },
+      "phone": "",
+      "photoURL": "",
+      "profileCompleted": false,
+      "socialLinks": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "twitter": "",
+        "whatsapp": ""
+      },
+      "walletBalance": 0
+    },
+    "YRLqd0OJIsbH8kCaKX4aqlgZxO83": {
+      "appName": "magnetar",
+      "userType": "anonymous"
+    },
+    "YySpCk3YkMflL0VY4FG6i9gtzvP2": {
+      "appName": "magnetar",
+      "bio": "",
+      "createdAt": "2025-03-12T05:28:56.855Z",
+      "lastLogin": "2025-03-12T05:28:56.855Z",
+      "lastUpdated": "2025-03-12T05:28:56.855Z",
+      "location": "",
+      "name": "Guest",
+      "notificationCounts": {
+        "system": {
+          "unread": 1
+        }
+      },
+      "phone": "",
+      "photoURL": "",
+      "profileCompleted": false,
+      "socialLinks": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "twitter": "",
+        "whatsapp": ""
+      },
+      "walletBalance": 0
+    },
+    "ZtZwbotLAsSewaw3CPznoom75ZF3": {
+      "appName": "magnetar",
+      "userType": "anonymous"
+    },
+    "a1mLmsBz57hgDsvXNvDLV3nABOX2": {
+      "displayName": "New User",
+      "earnings": {
+        "monthly": 0,
+        "total": 0,
+        "weekly": 0
+      },
+      "rank": "Beginner",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "currency": "PHP"
+      }
+    },
+    "aUucCdlE5YPqGNqkBcXfmXA6thx1": {
+      "created_at": "2025-03-14T07:08:32.919Z",
+      "email": "admin.codexxxhost@gmail.com",
+      "name": "Kim Louzel ",
+      "role": "admin"
+    },
+    "anWOaLz6gSewROFhOXEHO3SCMi82": {
+      "createdAt": "2025-03-10T09:58:54.833Z",
+      "isAnonymous": true,
+      "lastLogin": "2025-03-10T09:58:54.833Z",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "balance": 0,
+        "currency": "PHP"
+      }
+    },
+    "bGwvw99pxNa3HCbR4PqxSfMG7Og1": {
+      "displayName": "New User",
+      "earnings": {
+        "monthly": 0,
+        "total": 0,
+        "weekly": 0
+      },
+      "rank": "Beginner",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "currency": "PHP"
+      }
+    },
+    "bimQhuPuxSNoYmTo1p2WtjhXri72": {
+      "createdAt": "2025-03-11T06:53:57.436Z",
+      "isAnonymous": true,
+      "lastLogin": "2025-03-11T06:53:57.436Z",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "balance": 0,
+        "currency": "PHP"
+      }
+    },
+    "bngQTrQf6qV9cvOyXuVUVQ7BpFD2": {
+      "displayName": "New User",
+      "earnings": {
+        "monthly": 0,
+        "total": 0,
+        "weekly": 0
+      },
+      "rank": "Beginner",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "currency": "PHP"
+      }
+    },
+    "bztdX40cDzSd0Rxs5uCoFkhFJOr1": {
+      "createdAt": "2025-03-10T21:58:21.329Z",
+      "isAnonymous": true,
+      "lastLogin": "2025-03-10T21:58:21.329Z",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "balance": 0,
+        "currency": "PHP"
+      }
+    },
+    "cTS6s1VG49hSQiAtJxHZ1eBse6J2": {
+      "createdAt": "2025-03-10T22:32:21.177Z",
+      "isAnonymous": true,
+      "lastLogin": "2025-03-10T22:32:21.177Z",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "balance": 0,
+        "currency": "PHP"
+      }
+    },
+    "dHQUSOOjmgaZnmaldFiHBJVxbdg2": {
+      "appName": "magnetar",
+      "userType": "anonymous"
+    },
+    "demo-user-id": {
+      "createdAt": "2025-03-09T19:04:52.568Z",
+      "displayName": "Demo User",
+      "earnings": {
+        "monthly": 5000,
+        "total": 25000,
+        "weekly": 1200
+      },
+      "email": "demo@example.com",
+      "isAnonymous": true,
+      "lastLogin": "2025-03-09T19:04:52.568Z",
+      "rank": "Gold",
+      "team": {
+        "activeMembers": 4,
+        "directRecruits": 3,
+        "size": 5
+      },
+      "wallet": {
+        "balance": 10000,
+        "currency": "PHP"
+      }
+    },
+    "dvYCIPmlbyNGhOTqpZXc17lsHZz1": {
+      "createdAt": "2025-03-09T18:31:49.871Z",
+      "isAnonymous": true,
+      "lastLogin": "2025-03-09T18:31:49.871Z",
+      "personaTokens": {
+        "lastRefill": "2025-03-09T18:32:02.301Z",
+        "remaining": 625,
+        "total": 1000,
+        "used": 375
+      },
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "balance": 0,
+        "currency": "PHP"
+      }
+    },
+    "eJZbZhxS3LXdJ5TnP6Dy9GoLIeu1": {
+      "appName": "magnetar",
+      "bio": "",
+      "createdAt": "2025-03-12T02:43:08.356Z",
+      "lastLogin": "2025-03-12T02:43:08.356Z",
+      "lastUpdated": "2025-03-12T02:43:08.356Z",
+      "location": "",
+      "name": "Guest",
+      "notificationCounts": {
+        "system": {
+          "unread": 1
+        }
+      },
+      "phone": "",
+      "photoURL": "",
+      "profileCompleted": false,
+      "socialLinks": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "twitter": "",
+        "whatsapp": ""
+      },
+      "walletBalance": 0
+    },
+    "ewx428PdnhhCSxg5DdhDskDGIa43": {
+      "displayName": "New User",
+      "earnings": {
+        "monthly": 0,
+        "total": 0,
+        "weekly": 0
+      },
+      "rank": "Beginner",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "currency": "PHP"
+      }
+    },
+    "f4KBkOCZn6VflNsNKMeMoVcUrgM2": {
+      "displayName": "New User",
+      "earnings": {
+        "monthly": 0,
+        "total": 0,
+        "weekly": 0
+      },
+      "rank": "Beginner",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "currency": "PHP"
+      }
+    },
+    "fa580ZvGG6WxPikay4FfmmHHxyr2": {
+      "createdAt": "2025-03-09T18:30:55.265Z",
+      "isAnonymous": true,
+      "lastLogin": "2025-03-09T18:30:55.265Z",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "balance": 0,
+        "currency": "PHP"
+      }
+    },
+    "g26eL9WMU8SxVjGz9jprIOQumJu1": {
+      "appName": "magnetar",
+      "userType": "anonymous"
+    },
+    "g65ap0e499Y1pG5n1uiJOVs7jrb2": {
+      "appName": "magnetar",
+      "userType": "anonymous"
+    },
+    "gCc2zbDhliUSI54xyMLQoLfMLN93": {
+      "displayName": "New User",
+      "earnings": {
+        "monthly": 0,
+        "total": 0,
+        "weekly": 0
+      },
+      "rank": "Beginner",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "currency": "PHP"
+      }
+    },
+    "hKMhJGtpEtQkfAs8KdMrUvbwblK2": {
+      "createdAt": "2025-03-10T21:36:37.764Z",
+      "isAnonymous": true,
+      "lastLogin": "2025-03-10T21:36:37.764Z",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "balance": 0,
+        "currency": "PHP"
+      }
+    },
+    "hMUAWAYlTEb3O2vV9jNVc7ctIHw2": {
+      "email": "1mmkiergggodeeaitek@gmail.com",
+      "role": "admin"
+    },
+    "hWdWxEcFQgfqPtnK9NzFqxD6rhw1": {
+      "createdAt": "2025-03-10T23:54:26.585Z",
+      "isAnonymous": true,
+      "lastLogin": "2025-03-10T23:54:26.585Z",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "balance": 0,
+        "currency": "PHP"
+      }
+    },
+    "hcvX8KHlVdQphak7cy7dbvew3En2": {
+      "createdAt": "2025-03-10T22:49:02.204Z",
+      "isAnonymous": true,
+      "lastLogin": "2025-03-10T22:49:02.204Z",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "balance": 0,
+        "currency": "PHP"
+      }
+    },
+    "himz79ZwaqdEeNgrycKzcFDP28Z2": {
+      "appName": "magnetar",
+      "userType": "anonymous"
+    },
+    "hzjIKOnJ0CfhTFBmMKnjE14yin93": {
+      "displayName": "New User",
+      "earnings": {
+        "monthly": 0,
+        "total": 0,
+        "weekly": 0
+      },
+      "rank": "Beginner",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "currency": "PHP"
+      }
+    },
+    "iLX6fWb33eZkm6kIULEV0gbEQkF3": {
+      "displayName": "New User",
+      "earnings": {
+        "monthly": 0,
+        "total": 0,
+        "weekly": 0
+      },
+      "rank": "Beginner",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "currency": "PHP"
+      }
+    },
+    "iPa6gYKfyqfLsCG2KJf71dBwOHc2": {
+      "appName": "magnetar",
+      "userType": "anonymous"
+    },
+    "iWVEs8vrgkV6CzPeTyRGarBTvHd2": {
+      "createdAt": "2025-03-10T11:15:23.999Z",
+      "isAnonymous": true,
+      "lastLogin": "2025-03-10T11:15:23.999Z",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "balance": 0,
+        "currency": "PHP"
+      }
+    },
+    "ij5CiN6m7GODBWUFcPCrMzFc0V13": {
+      "displayName": "New User",
+      "earnings": {
+        "monthly": 0,
+        "total": 0,
+        "weekly": 0
+      },
+      "rank": "Beginner",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "currency": "PHP"
+      }
+    },
+    "j46XnqwrXYezvC3iQQH8zzr8zNO2": {
+      "appName": "magnetar",
+      "bio": "",
+      "createdAt": "2025-03-12T02:20:48.369Z",
+      "lastLogin": "2025-03-12T02:20:48.369Z",
+      "lastUpdated": "2025-03-12T02:20:48.369Z",
+      "location": "",
+      "name": "Guest",
+      "phone": "",
+      "photoURL": "",
+      "profileCompleted": false,
+      "socialLinks": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "twitter": "",
+        "whatsapp": ""
+      },
+      "walletBalance": 0
+    },
+    "j4UmC7yfnMbw4feFQBdko65Ylqz1": {
+      "createdAt": "2025-03-09T17:58:22.493Z",
+      "isAnonymous": true,
+      "lastLogin": "2025-03-09T17:58:22.493Z",
+      "personaTokens": {
+        "lastRefill": "2025-03-09T17:58:27.107Z",
+        "remaining": 1000,
+        "total": 1000,
+        "used": 0
+      },
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "balance": 0,
+        "currency": "PHP"
+      }
+    },
+    "jR2koPDTssXBjwLjeGTpYG826EE2": {
+      "appName": "magnetar",
+      "createdAt": "2025-03-09T16:02:55.004Z",
+      "displayName": "New User",
+      "earnings": {
+        "monthly": 0,
+        "total": 0,
+        "weekly": 0
+      },
+      "email": "",
+      "joinDate": "2025-03-09",
+      "personaTokens": {
+        "lastRefill": "2025-03-09T16:02:55.004Z",
+        "remaining": 776,
+        "total": 1000,
+        "used": 224
+      },
+      "photoURL": "",
+      "rank": "Bronze",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "userType": "anonymous"
+    },
+    "jpO7TeRECHM41cEZ2DeeKmNbXS32": {
+      "email": "41kiergggodeeaitek@gmail.com",
+      "role": "admin"
+    },
+    "k1icIvLfGWZ1lC2HczpLRjSKYku1": {
+      "appName": "magnetar"
+    },
+    "kYBaalXyMfNrr58Pec6mwdnrkQl1": {
+      "createdAt": "2025-03-09T18:08:14.622Z",
+      "isAnonymous": true,
+      "lastLogin": "2025-03-09T18:08:14.622Z",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "balance": 0,
+        "currency": "PHP"
+      }
+    },
+    "lMzAPCgThqUKxmdMna0UgpOcdQq2": {
+      "appName": "magnetar",
+      "bio": "",
+      "createdAt": "2025-03-12T02:35:00.962Z",
+      "displayName": "New User",
+      "earnings": {
+        "monthly": 0,
+        "total": 0,
+        "weekly": 0
+      },
+      "lastLogin": "2025-03-12T02:35:00.962Z",
+      "lastUpdated": "2025-03-12T02:35:00.962Z",
+      "location": "",
+      "name": "Guest",
+      "notificationCounts": {
+        "system": {
+          "unread": 1
+        }
+      },
+      "phone": "",
+      "photoURL": "",
+      "profileCompleted": false,
+      "rank": "Beginner",
+      "socialLinks": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "twitter": "",
+        "whatsapp": ""
+      },
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "currency": "PHP"
+      },
+      "walletBalance": 0
+    },
+    "ljgL8ndLEJPSZ8YHHyMtg0bUwCA2": {
+      "displayName": "New User",
+      "earnings": {
+        "monthly": 0,
+        "total": 0,
+        "weekly": 0
+      },
+      "rank": "Beginner",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "currency": "PHP"
+      }
+    },
+    "m5vmrJCoRbVXyABDRnNtNQQGxjO2": {
+      "createdAt": "2025-03-11T00:28:34.988Z",
+      "isAnonymous": true,
+      "lastLogin": "2025-03-11T00:28:34.988Z",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "balance": 0,
+        "currency": "PHP"
+      }
+    },
+    "mBoi8WzZZMeLGSKmfjNzjRpZbr42": {
+      "appName": "magnetar",
+      "userType": "anonymous"
+    },
+    "mQeh0RVQHmS39dYCGLsJsRMqYtq2": {
+      "displayName": "New User",
+      "earnings": {
+        "monthly": 0,
+        "total": 0,
+        "weekly": 0
+      },
+      "rank": "Beginner",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "currency": "PHP"
+      }
+    },
+    "meChLSTtKLe4CtHgC5LqlmTAbLF3": {
+      "appName": "magnetar",
+      "userType": "anonymous"
+    },
+    "mknXKGcgYPegpLbsQygO5r7muG83": {
+      "displayName": "New User",
+      "earnings": {
+        "monthly": 0,
+        "total": 0,
+        "weekly": 0
+      },
+      "rank": "Beginner",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "currency": "PHP"
+      }
+    },
+    "mxQlMMOOGqMPvHstMJiOFth3fgN2": {
+      "appName": "magnetar",
+      "bio": "",
+      "createdAt": "2025-03-12T02:37:55.120Z",
+      "lastLogin": "2025-03-12T02:37:55.120Z",
+      "lastUpdated": "2025-03-12T02:37:55.120Z",
+      "location": "",
+      "name": "Guest",
+      "notificationCounts": {
+        "system": {
+          "unread": 1
+        }
+      },
+      "phone": "",
+      "photoURL": "",
+      "profileCompleted": false,
+      "socialLinks": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "twitter": "",
+        "whatsapp": ""
+      },
+      "walletBalance": 0
+    },
+    "naeneZDN9lZmGkFQxUEyJ7GPQUo2": {
+      "appName": "magnetar",
+      "userType": "anonymous"
+    },
+    "nfdk3G1AvzfbCoamwFZcWCXOU3q1": {
+      "displayName": "New User",
+      "earnings": {
+        "monthly": 0,
+        "total": 0,
+        "weekly": 0
+      },
+      "personaTokens": {
+        "lastRefill": "2025-03-11T05:27:07.986Z",
+        "remaining": 1000,
+        "total": 1000,
+        "used": 0
+      },
+      "rank": "Beginner",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "currency": "PHP"
+      }
+    },
+    "nmlvhIjGbIOUDrDFY2WGpz0SvOI2": {
+      "createdAt": "2025-03-09T16:51:26.610Z",
+      "isAnonymous": true,
+      "lastLogin": "2025-03-09T16:51:26.610Z",
+      "personaTokens": {
+        "lastRefill": "2025-03-09T16:51:30.997Z",
+        "remaining": 1000,
+        "total": 1000,
+        "used": 0
+      },
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "balance": 5000,
+        "currency": "PHP",
+        "lastTransaction": {
+          "amount": 5000,
+          "timestamp": "2025-03-09T16:52:20.771Z",
+          "type": "cash_in"
+        }
+      }
+    },
+    "oUGCtcql3cUxdLijsJlqPh3X6ml2": {
+      "email": "admin@ececom.com",
+      "role": "admin"
+    },
+    "oW0Ge0EHxIYGNcdrI8eTzcaL14J2": {
+      "createdAt": "2025-03-09T18:20:23.960Z",
+      "isAnonymous": true,
+      "lastLogin": "2025-03-09T18:20:23.960Z",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "balance": 0,
+        "currency": "PHP"
+      }
+    },
+    "pNExT9o9o6b4FKsuBpa0Wlda4eq1": {
+      "appName": "magnetar",
+      "bio": "",
+      "createdAt": "2025-03-12T08:45:28.468Z",
+      "lastLogin": "2025-03-12T08:45:28.468Z",
+      "lastUpdated": "2025-03-12T08:45:28.468Z",
+      "location": "",
+      "name": "Guest",
+      "notificationCounts": {
+        "system": {
+          "unread": 1
+        }
+      },
+      "phone": "",
+      "photoURL": "",
+      "profileCompleted": false,
+      "socialLinks": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "twitter": "",
+        "whatsapp": ""
+      },
+      "walletBalance": 0
+    },
+    "pdSlNKSPOlbYAzRYxmR2WJyTbvZ2": {
+      "appName": "magnetar",
+      "userType": "anonymous"
+    },
+    "pwyOxGvSdGaxDAlmPh8WOL92LAE3": {
+      "appName": "magnetar",
+      "userType": "anonymous"
+    },
+    "qtWGK2GSCxhGix6Z1ArtpYePPOi2": {
+      "appName": "magnetar",
+      "userType": "anonymous"
+    },
+    "rtAklqVTnnVvELFtx5Li87ufv6m1": {
+      "appName": "magnetar",
+      "bio": "",
+      "createdAt": "2025-03-12T09:12:11.170Z",
+      "lastLogin": "2025-03-12T09:12:11.170Z",
+      "lastUpdated": "2025-03-12T09:12:11.170Z",
+      "location": "",
+      "name": "Guest",
+      "notificationCounts": {
+        "system": {
+          "unread": 1
+        }
+      },
+      "phone": "",
+      "photoURL": "",
+      "profileCompleted": false,
+      "socialLinks": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "twitter": "",
+        "whatsapp": ""
+      },
+      "walletBalance": 0
+    },
+    "s1jdm90T97TEbuezYwavvwb8tjy1": {
+      "appName": "magnetar",
+      "userType": "anonymous"
+    },
+    "t9Eo5NF3L8XpNhpGQx42jr5778F2": {
+      "email": "diskierodeeaitek@gmail.com",
+      "role": "agent"
+    },
+    "u443tzabfvPRhnFq5SXbh5mBKGu2": {
+      "appName": "magnetar",
+      "userType": "anonymous"
+    },
+    "uJ7oS5arHVeflW14BpKh6dpaoOb2": {
+      "appName": "magnetar",
+      "userType": "anonymous"
+    },
+    "uaZwBaQ2vPXqomLDIAfqehpPl373": {
+      "createdAt": "2025-03-10T22:52:44.154Z",
+      "isAnonymous": true,
+      "lastLogin": "2025-03-10T22:52:44.154Z",
+      "personaTokens": {
+        "lastRefill": "2025-03-10T22:52:46.323Z",
+        "remaining": 1000,
+        "total": 1000,
+        "used": 0
+      },
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "balance": 0,
+        "currency": "PHP"
+      }
+    },
+    "up6iO4FmNFORN7WH7zh31wOmrwD2": {
+      "appName": "magnetar",
+      "userType": "anonymous"
+    },
+    "uuOxBcvLVzSzbx2Qa3Dv6YLwREl2": {
+      "displayName": "New User",
+      "earnings": {
+        "monthly": 0,
+        "total": 0,
+        "weekly": 0
+      },
+      "rank": "Beginner",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "currency": "PHP"
+      }
+    },
+    "v0DAIKMMRUMvt4mMagcXF2hisrA3": {
+      "app": "gala",
+      "id": "v0DAIKMMRUMvt4mMagcXF2hisrA3",
+      "name": "Anonymous User",
+      "role": "traveler"
+    },
+    "wBcPkH1Uu6RLZlRqNsd4J5PdRAE2": {
+      "displayName": "New User",
+      "earnings": {
+        "monthly": 0,
+        "total": 0,
+        "weekly": 0
+      },
+      "personaTokens": {
+        "lastRefill": "2025-03-11T10:12:52.288Z",
+        "remaining": 1000,
+        "total": 1000,
+        "used": 0
+      },
+      "rank": "Beginner",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "currency": "PHP"
+      }
+    },
+    "wRxuZeg30tVS2WaRGOu6415fLDj2": {
+      "appName": "magnetar",
+      "userType": "anonymous"
+    },
+    "x8fDB58QlJhZEr1koiS2hNbaGcr1": {
+      "appName": "magnetar",
+      "userType": "anonymous"
+    },
+    "xo0RMHmv2Cg12v2z24kVEI6L0Vz1": {
+      "createdAt": "2025-03-10T21:24:57.162Z",
+      "isAnonymous": true,
+      "lastLogin": "2025-03-10T21:24:57.162Z",
+      "personaTokens": {
+        "lastRefill": "2025-03-10T21:25:05.250Z",
+        "remaining": 708,
+        "total": 1000,
+        "used": 292
+      },
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "balance": 0,
+        "currency": "PHP"
+      }
+    },
+    "yPVdIpq2hff3FQTJjKraw5A0PRJ3": {
+      "appName": "magnetar",
+      "bio": "",
+      "createdAt": "2025-03-12T03:09:12.532Z",
+      "lastLogin": "2025-03-12T03:09:12.532Z",
+      "lastUpdated": "2025-03-12T03:09:12.532Z",
+      "location": "",
+      "name": "Guest",
+      "notificationCounts": {
+        "system": {
+          "unread": 1
+        }
+      },
+      "personaTokens": {
+        "lastRefill": "2025-03-12T03:11:04.739Z",
+        "remaining": 1000,
+        "total": 1000,
+        "used": 0
+      },
+      "phone": "",
+      "photoURL": "",
+      "profileCompleted": false,
+      "socialLinks": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "twitter": "",
+        "whatsapp": ""
+      },
+      "walletBalance": 0
+    },
+    "ymPcnMJ6jthHkVlheimnqm6Gh5o1": {
+      "appName": "magnetar",
+      "userType": "anonymous"
+    },
+    "z28To4psvsNBWCE4zOoexbAlSwc2": {
+      "appName": "magnetar",
+      "userType": "anonymous"
+    },
+    "zECR5LjAvURgDNvUiHQcPUPBRnF3": {
+      "appName": "magnetar",
+      "userType": "anonymous"
+    },
+    "zMEijwwZsPcaHhWRBXfREYZNqsy2": {
+      "displayName": "New User",
+      "earnings": {
+        "monthly": 0,
+        "total": 0,
+        "weekly": 0
+      },
+      "rank": "Beginner",
+      "team": {
+        "activeMembers": 0,
+        "directRecruits": 0,
+        "size": 0
+      },
+      "wallet": {
+        "currency": "PHP"
+      }
+    },
+    "zqzTQkMpksOroo9575dKUcgw4R02": {
+      "appName": "magnetar",
+      "userType": "anonymous"
+    }
+  },
+  "videos": {
+    "-OKpi3rWaZxnzWaPihy7": {
+      "category": "Product Training",
+      "description": "kiara is facing the wall lol",
+      "duration": "0:00",
+      "thumbnail": "/placeholder.svg",
+      "title": "Master Discipline",
+      "uploadedAt": "2025-03-08T12:26:07.520Z",
+      "uploadedBy": "MatqUm3PimgfrNpfrkDdOzIAU162",
+      "videoUrl": "https://firebasestorage.googleapis.com/v0/b/ces-project-f8b4e.firebasestorage.app/o/videos%2Fcourse%2FMatqUm3PimgfrNpfrkDdOzIAU162%2F1741436763405_1000005809.mp4?alt=media&token=190fde8c-6702-4d34-a570-b8d1c78cd3dc"
+    },
+    "-OKpjpquP9T1nQ82w1FJ": {
+      "category": "Sales Mastery",
+      "description": "",
+      "duration": "0:00",
+      "thumbnail": "/placeholder.svg",
+      "title": "Ako ang Pinaka magaling",
+      "uploadedAt": "2025-03-08T12:33:50.330Z",
+      "uploadedBy": "AXd12r89WnhgVof5wKccBlsey7B2",
+      "videoUrl": "https://firebasestorage.googleapis.com/v0/b/ces-project-f8b4e.firebasestorage.app/o/videos%2Fcourse%2FAXd12r89WnhgVof5wKccBlsey7B2%2F1741437216899_InShot_20231114_051239523.mp4?alt=media&token=7d6f8eea-e545-43c7-96c0-b2fdbbcf3f5d"
+    },
+    "-OKpnj1h7FZK88Si3UDd": {
+      "category": "Sales Mastery",
+      "description": "",
+      "duration": "0:00",
+      "thumbnail": "/placeholder.svg",
+      "title": "Magnetar Academy",
+      "uploadedAt": "2025-03-08T12:50:50.992Z",
+      "uploadedBy": "79hS5EuUJLVdJUD6sWkl0G5flaI3",
+      "videoUrl": "https://firebasestorage.googleapis.com/v0/b/ces-project-f8b4e.firebasestorage.app/o/videos%2Fcourse%2F79hS5EuUJLVdJUD6sWkl0G5flaI3%2F1741438249904_VID_20250308_205034.mp4?alt=media&token=cd33a0c3-281c-4183-9c3b-a26d6feedfec"
+    },
+    "-OKw57Ysp0KZF23pLoql": {
+      "category": "Marketing",
+      "description": "test",
+      "duration": "0:00",
+      "thumbnail": "/placeholder.svg",
+      "title": "test",
+      "uploadedAt": "2025-03-09T18:08:57.055Z",
+      "uploadedBy": "kYBaalXyMfNrr58Pec6mwdnrkQl1",
+      "videoUrl": "https://firebasestorage.googleapis.com/v0/b/ces-project-f8b4e.firebasestorage.app/o/videos%2Fcourse%2FkYBaalXyMfNrr58Pec6mwdnrkQl1%2F1741543733331_1000099477.mp4?alt=media&token=279688a2-56d5-43a6-a499-6b9bfee1cf21"
+    },
+    "-OKzsfj3N3GQV6up5iss": {
+      "category": "Sales Mastery",
+      "description": "test",
+      "duration": "0:00",
+      "thumbnail": "/placeholder.svg",
+      "title": "Test",
+      "uploadedAt": "2025-03-10T11:48:40.550Z",
+      "uploadedBy": "EOiIDKAYtpOI8oQNdpwVbkbXv202",
+      "videoUrl": "https://firebasestorage.googleapis.com/v0/b/ces-project-f8b4e.firebasestorage.app/o/videos%2Fcourse%2FEOiIDKAYtpOI8oQNdpwVbkbXv202%2F1741607316178_Best_Short_Motivational_Speech_Video_-_24_HOURS_-_1-Minute_Motivation_%232.mp4?alt=media&token=a21e6fd7-09ab-4ce4-a12c-5f5a9ca98e0b"
+    },
+    "-OL1UzkeGgOz2iFm0MWd": {
+      "category": "Sales Mastery",
+      "description": "test",
+      "duration": "0:00",
+      "thumbnail": "/placeholder.svg",
+      "title": "Test",
+      "uploadedAt": "2025-03-10T23:59:40.629Z",
+      "uploadedBy": "hWdWxEcFQgfqPtnK9NzFqxD6rhw1",
+      "videoUrl": "https://firebasestorage.googleapis.com/v0/b/ces-project-f8b4e.firebasestorage.app/o/videos%2Fcourse%2FhWdWxEcFQgfqPtnK9NzFqxD6rhw1%2F1741651019793_1000100615.mp4?alt=media&token=e3883583-7722-46ac-8a6d-07a27b95d7a8"
+    },
+    "-OL2g0FrXh61Faovthm0": {
+      "category": "Sales Mastery",
+      "description": "Test",
+      "duration": "0:00",
+      "id": "-OL2g0FrXh61Faovthm0",
+      "thumbnail": "/placeholder.svg",
+      "title": "Test",
+      "uploadedAt": "2025-03-11T05:31:48.929Z",
+      "uploadedBy": "KtlCH7eWEyNa989VwB9CXvozs3s1",
+      "videoUrl": "https://firebasestorage.googleapis.com/v0/b/ces-project-f8b4e.firebasestorage.app/o/videos%2Fcourse%2FKtlCH7eWEyNa989VwB9CXvozs3s1%2F1741671105295_1000006018.mp4?alt=media&token=e830e674-518b-47c4-9cfc-45c802f6dde0"
+    },
+    "-OL2hR5oeFzG8e0f8KFx": {
+      "category": "Sales Mastery",
+      "description": "Test",
+      "duration": "0:00",
+      "id": "-OL2hR5oeFzG8e0f8KFx",
+      "thumbnail": "/placeholder.svg",
+      "title": "Test",
+      "uploadedAt": "2025-03-11T05:38:00.964Z",
+      "uploadedBy": "iLX6fWb33eZkm6kIULEV0gbEQkF3",
+      "videoUrl": "https://firebasestorage.googleapis.com/v0/b/ces-project-f8b4e.firebasestorage.app/o/videos%2Fcourse%2FiLX6fWb33eZkm6kIULEV0gbEQkF3%2F1741671477692_1000006018.mp4?alt=media&token=34a771db-cf5a-470f-a463-4744ff3ac32a"
+    },
+    "-OL2iY6yb_32YylgwOP4": {
+      "category": "Sales Mastery",
+      "description": "Test",
+      "duration": "0:00",
+      "id": "-OL2iY6yb_32YylgwOP4",
+      "thumbnail": "/placeholder.svg",
+      "title": "Test",
+      "uploadedAt": "2025-03-11T05:42:51.851Z",
+      "uploadedBy": "ljgL8ndLEJPSZ8YHHyMtg0bUwCA2",
+      "videoUrl": "https://firebasestorage.googleapis.com/v0/b/ces-project-f8b4e.firebasestorage.app/o/videos%2Fcourse%2FljgL8ndLEJPSZ8YHHyMtg0bUwCA2%2F1741671768185_1000006018.mp4?alt=media&token=ce7aa34a-d1ba-4187-997b-8d503e06e454"
+    },
+    "-OL2wckPXtVajnigS-kF": {
+      "category": "Sales Mastery",
+      "description": "Test",
+      "duration": "0:00",
+      "id": "-OL2wckPXtVajnigS-kF",
+      "thumbnail": "/placeholder.svg",
+      "title": "Test",
+      "uploadedAt": "2025-03-11T06:44:24.932Z",
+      "uploadedBy": "O28iZ0FbuLTwAH7ETYMtOX7NrGy1",
+      "videoUrl": "https://firebasestorage.googleapis.com/v0/b/ces-project-f8b4e.firebasestorage.app/o/videos%2Fcourse%2FO28iZ0FbuLTwAH7ETYMtOX7NrGy1%2F1741675461575_1000006018.mp4?alt=media&token=25589e1c-5354-4de8-93b6-a0b9e91b7326"
+    },
+    "-OL32DhyhCDX6_wWjPv1": {
+      "category": "Sales Mastery",
+      "description": "test",
+      "duration": "0:00",
+      "id": "-OL32DhyhCDX6_wWjPv1",
+      "thumbnail": "/placeholder.svg",
+      "title": "Test",
+      "uploadedAt": "2025-03-11T07:13:14.026Z",
+      "uploadedBy": "RdWoVzsJM7RRZgIZJYP4ktuH9y72",
+      "videoUrl": "https://firebasestorage.googleapis.com/v0/b/ces-project-f8b4e.firebasestorage.app/o/videos%2Fcourse%2FRdWoVzsJM7RRZgIZJYP4ktuH9y72%2F1741677172386_1000092183.mp4?alt=media&token=3a12138e-e410-4827-888a-8551ced53b22"
+    },
+    "-OL35wRkG3s7c-YZ2GlF": {
+      "category": "Leadership",
+      "description": "Test",
+      "duration": "0:00",
+      "id": "-OL35wRkG3s7c-YZ2GlF",
+      "thumbnail": "/placeholder.svg",
+      "title": "Test",
+      "uploadedAt": "2025-03-11T07:29:27.773Z",
+      "uploadedBy": "bimQhuPuxSNoYmTo1p2WtjhXri72",
+      "videoUrl": "https://firebasestorage.googleapis.com/v0/b/ces-project-f8b4e.firebasestorage.app/o/videos%2Fcourse%2FbimQhuPuxSNoYmTo1p2WtjhXri72%2F1741678155095_1000092183.mp4?alt=media&token=506e449e-6787-438a-8107-2fe8dc13235a"
+    },
+    "-OL3CMip8BVQSgAemp3q": {
+      "category": "Leadership",
+      "description": "tets",
+      "duration": "0:00",
+      "id": "-OL3CMip8BVQSgAemp3q",
+      "thumbnail": "/placeholder.svg",
+      "title": "test",
+      "uploadedAt": "2025-03-11T07:57:31.647Z",
+      "uploadedBy": "O28iZ0FbuLTwAH7ETYMtOX7NrGy1",
+      "videoUrl": "https://firebasestorage.googleapis.com/v0/b/ces-project-f8b4e.firebasestorage.app/o/videos%2Fcourse%2FO28iZ0FbuLTwAH7ETYMtOX7NrGy1%2F1741679848597_1000006018.mp4?alt=media&token=848878bc-ec0b-4d2b-a5f4-0012ed65c993"
+    }
+  }
+}
